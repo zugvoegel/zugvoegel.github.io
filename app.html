@@ -13,12 +13,12 @@
 <h1>My First Heading</h1>
 
 <!-- only the following has to be included where the table should be placed on the site -->
-<script type="text/javascript" src="./partyCheck.js"></script>
+<script type="text/javascript" src="https://zugvoegel.github.io/partyCheck.js"></script>
   <script>
 
     $(window).on('load', function(){
       let target = $("#target_table");
-      let json_file_path = "./data.json"+"?"+Date.now();
+      let json_file_path ="https://zugvoegel.github.io/data.json"+"?"+Date.now();
       // console.log(target)
       setUpPartyCheck(target, json_file_path);
     });

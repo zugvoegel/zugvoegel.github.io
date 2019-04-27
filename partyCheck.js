@@ -2,7 +2,8 @@ function includeStyle(){
   var element = document.createElement("link");
 element.setAttribute("rel", "stylesheet");
 element.setAttribute("type", "text/css");
-element.setAttribute("href", "party_check_style.css");
+let base_url = "https://zugvoegel.github.io/"
+element.setAttribute("href", base_url+"party_check_style.css");
 document.getElementsByTagName("head")[0].appendChild(element);
 }
 
