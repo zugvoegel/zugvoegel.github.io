@@ -19,7 +19,7 @@
 
   let baseUrl = "https://zugvoegel.github.io/PartyCheckerApp/"
 
-  $.getScript(baseUrl + "partyCheck.js", function()
+  $.getScript(baseUrl + "partyCheck.js"+"?"+Date.now(), function()
   {
     $(window).on('load', function(){
       let target = $("#target_table");
