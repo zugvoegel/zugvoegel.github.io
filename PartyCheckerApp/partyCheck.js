@@ -86,7 +86,7 @@ function setupTable(target_div, data){
   table.append(parteicheck_header);
 
   $.each(data.parties, function(index, party){
-    let party_pic = party.pic;
+    let party_pic = makeGlobalUrl(party.pic);
     party_list.push(party.name)
     parteicheck_header.append(`<th><img height="40px" src="${party_pic}"/></th>`);
   })

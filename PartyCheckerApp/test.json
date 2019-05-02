@@ -4,9 +4,10 @@
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"spd"}
 ],
 "position_symbols": [
-  {"shorthand":"green", "symbol_url":"https://visawie.org/wp-content/uploads/2017/09/green_tick.jpg", "local":false},
+  {"shorthand":"green", "symbol_url":"green_tick.jpg"},
   {"shorthand":"red", "symbol_url":"red_cross.jpg"},
-  {"shorthand":"yellow", "symbol_url":"yellow_circle.jpg", "local":false}
+  {"shorthand":"yellow", "symbol_url":"yellow_circle.jpg"},
+  {"shorthand":"grey", "symbol_url":"grey_dash.jpg"}
 ],
 "topics": [
   {
