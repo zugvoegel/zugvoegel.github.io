@@ -20,14 +20,15 @@
   let baseUrl = "https://zugvoegel.github.io/PartyCheckerApp/"
 
   $.getScript(baseUrl + "partyCheck.js", function()
-  {
+  {});
+
     $(window).on('load', function(){
+      console.log("starting setup")
       let target = $("#target_table");
       let json_file_path ="https://zugvoegel.github.io/PartyCheckerApp/test.json"+"?"+Date.now();
       // console.log(target)
       setUpPartyCheck(target, json_file_path, baseUrl);
     });
-  });
 
 
   </script>
