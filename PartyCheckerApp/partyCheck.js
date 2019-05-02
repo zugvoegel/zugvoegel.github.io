@@ -11,6 +11,7 @@ function makePositionSymbolCSS(base_url, position_symbol_list){
   var style_rules = [];
 
   for (var sym in position_symbol_list){
+    console.log(sym)
     var shorthand = sym.shorthand
     var url = sym.url
     if(sym.local){
@@ -30,7 +31,7 @@ function makePositionSymbolCSS(base_url, position_symbol_list){
 
   var style_tag = '<style type="text/css">' + style_rules.join("\n") + "</style>";
   console.log(style_tag);
-  $("head").append(style);
+  $("head").append(style_tag);
 };
 
 function showModal ( text ) {
