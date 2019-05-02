@@ -3,7 +3,7 @@ function includeStyle(base_url){
     element.setAttribute("rel", "stylesheet");
     element.setAttribute("type", "text/css");
     // let base_url = "https://zugvoegel.github.io/"
-    element.setAttribute("href", base_url+"party_check_style.css");
+    element.setAttribute("href", base_url+"party_check_style.css"+"?"+Date.now());
     document.getElementsByTagName("head")[0].appendChild(element);
 }
 
@@ -77,7 +77,7 @@ function setupTable(target_div, data){
         }
 
         let party_color = party_position[0]
-        if(!(['green','yellow','red'].includes(party_color))){
+        if(!(['green','yellow','red', 'grey'].includes(party_color))){
           alert(`Unkown position color for party <<${party}>> in issue <<${item_title}>>. We need the form {'${party}': ["<color>", "<position>"]}, where color is either green, yellow or red`);
 
         }
