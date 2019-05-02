@@ -1,7 +1,20 @@
 {"parties": [
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_cdu.jpg", "name":"cdu"},
-  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_fdp.jpg", "name":"fdp"},
-  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"spd"}
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"spd"},
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_fdp.jpg", "name":"fdp"}
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_cdu.jpg", "name":"grüne"},
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_fdp.jpg", "name":"linke"},
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"fw"}
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_cdu.jpg", "name":"piraten"},
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_fdp.jpg", "name":"tierschutz"},
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"ödp"}
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_cdu.jpg", "name":"partei"},
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_fdp.jpg", "name":"frauen"},
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"dkp"}
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_cdu.jpg", "name":"humanisten"},
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_fdp.jpg", "name":"mlpd"},
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"diem"}
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"volt"}
 ],
 "topics": [
   {
