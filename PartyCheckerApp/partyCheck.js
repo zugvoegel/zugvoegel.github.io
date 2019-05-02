@@ -1,10 +1,10 @@
-function includeStyle(){
-  var element = document.createElement("link");
-element.setAttribute("rel", "stylesheet");
-element.setAttribute("type", "text/css");
-let base_url = "https://zugvoegel.github.io/"
-element.setAttribute("href", base_url+"party_check_style.css");
-document.getElementsByTagName("head")[0].appendChild(element);
+function includeStyle(base_url){
+    var element = document.createElement("link");
+    element.setAttribute("rel", "stylesheet");
+    element.setAttribute("type", "text/css");
+    // let base_url = "https://zugvoegel.github.io/"
+    element.setAttribute("href", base_url+"party_check_style.css");
+    document.getElementsByTagName("head")[0].appendChild(element);
 }
 
 function showModal ( text ) {
@@ -83,15 +83,15 @@ function setupTable(target_div, data){
         }
 
         let party_explanation = party_position[1]
-        new_row.append(`<td class="parteiencheck ${party_color}" onclick="showModal('${party_explanation}');"></td>`)
+        new_row.append(`<td class="parteiencheck position_symbol ${party_color}" onclick="showModal('${party_explanation}');"></td>`)
       })
       table.append(new_row)
     })
   })
 }
 
-function setUpPartyCheck(target, json_file_path){
-  includeStyle();
+function setUpPartyCheck(target, json_file_path, base_url){
+  includeStyle(base_url);
   setupModal(target);
   $.getJSON(json_file_path, function(data){
     setupTable(target, data);

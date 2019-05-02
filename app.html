@@ -13,15 +13,23 @@
 <h1>Parteiencheck EU-Wahl 2019</h1>
 
 <!-- only the following has to be included where the table should be placed on the site -->
-<script type="text/javascript" src="https://zugvoegel.github.io/partyCheck.js"></script>
+<!-- <script type="text/javascript" src="https://zugvoegel.github.io/PartyCheckerApp/partyCheck.js"></script> -->
   <script>
+  // jQuery
 
+  let baseUrl = "https://zugvoegel.github.io/PartyCheckerApp/"
+
+  $.getScript(baseUrl + "partyCheck.js", function()
+  {
     $(window).on('load', function(){
       let target = $("#target_table");
-      let json_file_path ="https://zugvoegel.github.io/data.json"+"?"+Date.now();
+      let json_file_path ="https://zugvoegel.github.io/PartyCheckerApp/test.json"+"?"+Date.now();
       // console.log(target)
-      setUpPartyCheck(target, json_file_path);
+      setUpPartyCheck(target, json_file_path, baseUrl);
     });
+  });
+
+
   </script>
 <div id="target_table"><p></p></div>
 
