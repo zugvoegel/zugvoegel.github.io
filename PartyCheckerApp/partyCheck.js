@@ -81,6 +81,11 @@ function setupTable(target_div, data){
     parteicheck_header.append(`<th><img height="40px" src="${party_pic}"/></th>`);
   })
 
+  var valid_position_symbols = [];
+  $.each(data.position_symbols, function(index, sym){
+    valid_position_symbols.push(sym.shorthand);
+  })
+
 
   $.each(data.topics, function(index, topic){
     let topic_title = topic.title
@@ -103,8 +108,8 @@ function setupTable(target_div, data){
         }
 
         let party_color = party_position[0]
-        if(!(['green','yellow','red', 'grey'].includes(party_color))){
-          alert(`Unkown position color for party <<${party}>> in issue <<${item_title}>>. We need the form {'${party}': ["<color>", "<position>"]}, where color is either green, yellow or red`);
+        if(!(valid_position_symbols.includes(party_color))){
+          alert(`Unkown position color for party <<${party}>> in issue <<${item_title}>>. We need the form {'${party}': ["<color>", "<position>"]}, where color is in ${valid_position_symbols.join(" ")}`);
 
         }
 
@@ -120,6 +125,7 @@ function setUpPartyCheck(target, json_file_path, base_url){
   includeStyle(base_url);
   setupModal(target);
   $.getJSON(json_file_path, function(data){
+    makePositionSymbolCSS(base_url, data.position_symbols)
     setupTable(target, data);
   })
 }
