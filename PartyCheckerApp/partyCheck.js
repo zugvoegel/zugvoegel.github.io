@@ -7,6 +7,11 @@ function includeStyle(base_url){
     document.getElementsByTagName("head")[0].appendChild(element);
 }
 
+function makeGlobalUrl(base_url, filename){
+
+  return filename
+}
+
 function makePositionSymbolCSS(base_url, position_symbol_list){
   var style_rules = [];
   console.log(position_symbol_list)
@@ -14,13 +19,12 @@ function makePositionSymbolCSS(base_url, position_symbol_list){
   $.each(position_symbol_list, function(index, sym){
     console.log(sym)
     var shorthand = sym.shorthand
-    var url = sym.url
-    if(sym.local){
-      url = base_url + "/Resources/"+url
-    }
+    var file_url = sym.symbol_url
+
+    var global_url = makeGlobalUrl(base_url, file_url)
 
     var style = `.${shorthand} {
-    background: white url("${url}") no-repeat;
+    background: white url("${global_url}") no-repeat;
     background-size:56px 40px;
     }
     `
