@@ -8,8 +8,12 @@ function includeStyle(base_url){
 }
 
 function makeGlobalUrl(base_url, filename){
-
-  return filename
+  if(filename.startsWith("http")){
+    return filename
+  }
+  else{
+    return base_url + "Resources/" + filename
+  }
 }
 
 function makePositionSymbolCSS(base_url, position_symbol_list){

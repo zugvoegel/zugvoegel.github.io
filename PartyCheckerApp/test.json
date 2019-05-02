@@ -5,8 +5,8 @@
 ],
 "position_symbols": [
   {"shorthand":"green", "symbol_url":"https://visawie.org/wp-content/uploads/2017/09/green_tick.jpg", "local":false},
-  {"shorthand":"red", "symbol_url":"https://visawie.org/wp-content/uploads/2017/09/green_tick.jpg", "local":false},
-  {"shorthand":"yellow", "symbol_url":"https://visawie.org/wp-content/uploads/2017/09/green_tick.jpg", "local":false}
+  {"shorthand":"red", "symbol_url":"red_cross.jpg"},
+  {"shorthand":"yellow", "symbol_url":"yellow_circle.jpg", "local":false}
 ],
 "topics": [
   {
