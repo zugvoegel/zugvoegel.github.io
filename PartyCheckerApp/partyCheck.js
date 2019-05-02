@@ -9,8 +9,9 @@ function includeStyle(base_url){
 
 function makePositionSymbolCSS(base_url, position_symbol_list){
   var style_rules = [];
+  console.log(position_symbol_list)
 
-  for (var sym in position_symbol_list){
+  $.each(position_symbol_list, function(index, sym){
     console.log(sym)
     var shorthand = sym.shorthand
     var url = sym.url
@@ -25,7 +26,7 @@ function makePositionSymbolCSS(base_url, position_symbol_list){
     `
 
     style_rules.push(style);
-  }
+  })};
 
   /* ... */
 
