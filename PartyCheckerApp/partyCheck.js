@@ -33,7 +33,7 @@ function makePositionSymbolCSS(base_url, position_symbol_list){
   var style_tag = '<style type="text/css">' + style_rules.join("\n") + "</style>";
   console.log(style_tag);
   $("head").append(style_tag);
-};
+}
 
 function showModal ( text ) {
   // When the user clicks the button, open the modal
