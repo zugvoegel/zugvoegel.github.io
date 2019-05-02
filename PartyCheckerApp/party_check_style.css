@@ -47,7 +47,6 @@ cursor: pointer;
 }
 
 .position_symbol {
-background-size:56px 40px;
 width: 56px; /*or your image's width*/
 height: 40pxpx; /*or your image's height*/
 margin: 0;
@@ -56,16 +55,20 @@ padding: 0;
 
 .green {
 background: white url("https://visawie.org/wp-content/uploads/2017/09/green_tick.jpg") no-repeat;
+background-size:56px 40px;
 }
 
 .yellow {
 background: white url("https://visawie.org/wp-content/uploads/2017/09/yellow_circle.jpg") no-repeat;
+background-size:56px 40px;
 }
 
 .red {
 background: white url("https://visawie.org/wp-content/uploads/2017/09/red_cross.jpg") no-repeat;
+background-size:56px 40px;
 }
 
 .grey {
 background: white url("https://visawie.org/wp-content/uploads/2017/09/red_cross.jpg") no-repeat;
+background-size:56px 40px;
 }

@@ -7,6 +7,32 @@ function includeStyle(base_url){
     document.getElementsByTagName("head")[0].appendChild(element);
 }
 
+function makePositionSymbolCSS(base_url, position_symbol_list){
+  var style_rules = [];
+
+  for (var sym in position_symbol_list){
+    var shorthand = sym.shorthand
+    var url = sym.url
+    if(sym.local){
+      url = base_url + "/Resources/"+url
+    }
+
+    var style = `.${shorthand} {
+    background: white url("${url}") no-repeat;
+    background-size:56px 40px;
+    }
+    `
+
+    style_rules.push(style);
+  }
+
+  /* ... */
+
+  var style_tag = '<style type="text/css">' + style_rules.join("\n") + "</style>";
+  console.log(style_tag);
+  $("head").append(style);
+};
+
 function showModal ( text ) {
   // When the user clicks the button, open the modal
   var modal = document.getElementById('myModal');
