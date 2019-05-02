@@ -77,7 +77,7 @@ function showModal ( text ) {
   $("#myModal").css('display', 'block');
 }
 
-function setupTable(target_div, data){
+function setupTable(base_url, target_div, data){
   var party_list = [];
 
   let table = $('<table border="1" class="parteiencheck"></table>');
@@ -86,7 +86,7 @@ function setupTable(target_div, data){
   table.append(parteicheck_header);
 
   $.each(data.parties, function(index, party){
-    let party_pic = makeGlobalUrl(party.pic);
+    let party_pic = makeGlobalUrl(base_url, party.pic);
     party_list.push(party.name)
     parteicheck_header.append(`<th><img height="40px" src="${party_pic}"/></th>`);
   })
@@ -136,6 +136,6 @@ function setUpPartyCheck(target, json_file_path, base_url){
   setupModal(target);
   $.getJSON(json_file_path, function(data){
     makePositionSymbolCSS(base_url, data.position_symbols)
-    setupTable(target, data);
+    setupTable(base_url, target, data);
   })
 }
