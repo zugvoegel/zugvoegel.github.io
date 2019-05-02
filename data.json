@@ -1,19 +1,19 @@
 {"parties": [
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_cdu.jpg", "name":"cdu"},
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"spd"},
-  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_fdp.jpg", "name":"fdp"}
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_fdp.jpg", "name":"fdp"},
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_cdu.jpg", "name":"grüne"},
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_fdp.jpg", "name":"linke"},
-  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"fw"}
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"fw"},
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_cdu.jpg", "name":"piraten"},
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_fdp.jpg", "name":"tierschutz"},
-  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"ödp"}
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"ödp"},
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_cdu.jpg", "name":"partei"},
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_fdp.jpg", "name":"frauen"},
-  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"dkp"}
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"dkp"},
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_cdu.jpg", "name":"humanisten"},
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_fdp.jpg", "name":"mlpd"},
-  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"diem"}
+  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"diem"},
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"volt"}
 ],
 "topics": [
@@ -37,7 +37,7 @@
         "humanisten":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
         "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
         "diem":["green", "»Wir stehen für eine humanitäre Flüchtlingspolitik. Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben. Die brutalen Kriege und Menschenrechtskrisen der Welt zwingen weiter viele Menschen zur Flucht. Jeder zweite Flüchtling weltweit ist ein Kind! Mit einem Gesamtkonzept Migration gewährleisten wir Kontrolle und verhindern Überforderung« (S. 74)"],
-        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
+        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."]
        }
       },
       {"title": "Legale, sichere Zugangswege",
@@ -57,7 +57,7 @@
         "humanisten":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
         "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
         "diem":["green", "»Wir stehen für eine humanitäre Flüchtlingspolitik. Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben. Die brutalen Kriege und Menschenrechtskrisen der Welt zwingen weiter viele Menschen zur Flucht. Jeder zweite Flüchtling weltweit ist ein Kind! Mit einem Gesamtkonzept Migration gewährleisten wir Kontrolle und verhindern Überforderung« (S. 74)"],
-        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
+        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."]
        }
       },
     {"title": "Humanitäres Visum",
@@ -77,7 +77,7 @@
         "humanisten":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
         "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
         "diem":["green", "»Wir stehen für eine humanitäre Flüchtlingspolitik. Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben. Die brutalen Kriege und Menschenrechtskrisen der Welt zwingen weiter viele Menschen zur Flucht. Jeder zweite Flüchtling weltweit ist ein Kind! Mit einem Gesamtkonzept Migration gewährleisten wir Kontrolle und verhindern Überforderung« (S. 74)"],
-        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
+        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."]
        }
       },
     {"title": "Ausweitung von Kontingenten/Resettlement",
@@ -97,7 +97,7 @@
         "humanisten":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
         "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
         "diem":["green", "»Wir stehen für eine humanitäre Flüchtlingspolitik. Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben. Die brutalen Kriege und Menschenrechtskrisen der Welt zwingen weiter viele Menschen zur Flucht. Jeder zweite Flüchtling weltweit ist ein Kind! Mit einem Gesamtkonzept Migration gewährleisten wir Kontrolle und verhindern Überforderung« (S. 74)"],
-        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
+        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."]
        }
       },
     {"title": "Seenotrettung in europäischer Verantwortung",
@@ -117,7 +117,7 @@
         "humanisten":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
         "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
         "diem":["green", "»Wir stehen für eine humanitäre Flüchtlingspolitik. Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben. Die brutalen Kriege und Menschenrechtskrisen der Welt zwingen weiter viele Menschen zur Flucht. Jeder zweite Flüchtling weltweit ist ein Kind! Mit einem Gesamtkonzept Migration gewährleisten wir Kontrolle und verhindern Überforderung« (S. 74)"],
-        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
+        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."]
        }
       },
     {"title": "Abschaffung/Reform der Dublin-Verordnung",
@@ -137,7 +137,7 @@
         "humanisten":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
         "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
         "diem":["green", "»Wir stehen für eine humanitäre Flüchtlingspolitik. Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben. Die brutalen Kriege und Menschenrechtskrisen der Welt zwingen weiter viele Menschen zur Flucht. Jeder zweite Flüchtling weltweit ist ein Kind! Mit einem Gesamtkonzept Migration gewährleisten wir Kontrolle und verhindern Überforderung« (S. 74)"],
-        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
+        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."]
        }
       },
     {"title": "Ablehnung des Konzepts Sichere Herkunftsstaaten",
@@ -157,7 +157,7 @@
         "humanisten":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
         "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
         "diem":["green", "»Wir stehen für eine humanitäre Flüchtlingspolitik. Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben. Die brutalen Kriege und Menschenrechtskrisen der Welt zwingen weiter viele Menschen zur Flucht. Jeder zweite Flüchtling weltweit ist ein Kind! Mit einem Gesamtkonzept Migration gewährleisten wir Kontrolle und verhindern Überforderung« (S. 74)"],
-        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
+        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."]
        }
       },
     {"title": "Ablehnung von Rücknahmeabkommen allgemein (z.B. mit der Türkei und anderen nordafrikanischen Staaten)",
@@ -177,7 +177,7 @@
         "humanisten":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
         "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
         "diem":["green", "»Wir stehen für eine humanitäre Flüchtlingspolitik. Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben. Die brutalen Kriege und Menschenrechtskrisen der Welt zwingen weiter viele Menschen zur Flucht. Jeder zweite Flüchtling weltweit ist ein Kind! Mit einem Gesamtkonzept Migration gewährleisten wir Kontrolle und verhindern Überforderung« (S. 74)"],
-        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
+        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."]
        }
       },
     {"title": "Abschaffung von Frontex",
@@ -197,7 +197,7 @@
         "humanisten":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
         "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
         "diem":["green", "»Wir stehen für eine humanitäre Flüchtlingspolitik. Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben. Die brutalen Kriege und Menschenrechtskrisen der Welt zwingen weiter viele Menschen zur Flucht. Jeder zweite Flüchtling weltweit ist ein Kind! Mit einem Gesamtkonzept Migration gewährleisten wir Kontrolle und verhindern Überforderung« (S. 74)"],
-        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
+        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."]
        }
       },
     {"title": "Sofortiger Abschiebestopp",
@@ -217,7 +217,7 @@
         "humanisten":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
         "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
         "diem":["green", "»Wir stehen für eine humanitäre Flüchtlingspolitik. Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben. Die brutalen Kriege und Menschenrechtskrisen der Welt zwingen weiter viele Menschen zur Flucht. Jeder zweite Flüchtling weltweit ist ein Kind! Mit einem Gesamtkonzept Migration gewährleisten wir Kontrolle und verhindern Überforderung« (S. 74)"],
-        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
+        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."]
        }
       },
     {"title": "Klima als Fluchtursache anerkennen",
@@ -237,7 +237,7 @@
         "humanisten":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
         "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
         "diem":["green", "»Wir stehen für eine humanitäre Flüchtlingspolitik. Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben. Die brutalen Kriege und Menschenrechtskrisen der Welt zwingen weiter viele Menschen zur Flucht. Jeder zweite Flüchtling weltweit ist ein Kind! Mit einem Gesamtkonzept Migration gewährleisten wir Kontrolle und verhindern Überforderung« (S. 74)"],
-        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
+        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."]
        }
       }
     ]
@@ -262,7 +262,7 @@
         "humanisten":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
         "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
         "diem":["green", "»Wir stehen für eine humanitäre Flüchtlingspolitik. Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben. Die brutalen Kriege und Menschenrechtskrisen der Welt zwingen weiter viele Menschen zur Flucht. Jeder zweite Flüchtling weltweit ist ein Kind! Mit einem Gesamtkonzept Migration gewährleisten wir Kontrolle und verhindern Überforderung« (S. 74)"],
-        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
+        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."]
        }
       },
       {"title": "Zuzug von Fachkräften in die EU erleichtern",
@@ -282,7 +282,7 @@
         "humanisten":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
         "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
         "diem":["green", "»Wir stehen für eine humanitäre Flüchtlingspolitik. Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben. Die brutalen Kriege und Menschenrechtskrisen der Welt zwingen weiter viele Menschen zur Flucht. Jeder zweite Flüchtling weltweit ist ein Kind! Mit einem Gesamtkonzept Migration gewährleisten wir Kontrolle und verhindern Überforderung« (S. 74)"],
-        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
+        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."]
        }
       },
     {"title": "Zuzug von Nicht-EU-Studierenden und -Auszubildenden erleichtern",
@@ -302,7 +302,7 @@
         "humanisten":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
         "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
         "diem":["green", "»Wir stehen für eine humanitäre Flüchtlingspolitik. Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben. Die brutalen Kriege und Menschenrechtskrisen der Welt zwingen weiter viele Menschen zur Flucht. Jeder zweite Flüchtling weltweit ist ein Kind! Mit einem Gesamtkonzept Migration gewährleisten wir Kontrolle und verhindern Überforderung« (S. 74)"],
-        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
+        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."]
        }
       },
     {"title": "Bessere Anerkennung von außereuropäischen Abschlüssen",
@@ -322,7 +322,7 @@
         "humanisten":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
         "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
         "diem":["green", "»Wir stehen für eine humanitäre Flüchtlingspolitik. Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben. Die brutalen Kriege und Menschenrechtskrisen der Welt zwingen weiter viele Menschen zur Flucht. Jeder zweite Flüchtling weltweit ist ein Kind! Mit einem Gesamtkonzept Migration gewährleisten wir Kontrolle und verhindern Überforderung« (S. 74)"],
-        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
+        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."]
        }
       },
     {"title": "Spurwechsel: Möglichkeit, Asylstatus in dauerhaften Aufenthaltstitel umzuwandeln",
@@ -342,7 +342,7 @@
         "humanisten":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
         "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
         "diem":["green", "»Wir stehen für eine humanitäre Flüchtlingspolitik. Das Recht auf Asyl muss auch in Zukunft unangetastet bleiben. Die brutalen Kriege und Menschenrechtskrisen der Welt zwingen weiter viele Menschen zur Flucht. Jeder zweite Flüchtling weltweit ist ein Kind! Mit einem Gesamtkonzept Migration gewährleisten wir Kontrolle und verhindern Überforderung« (S. 74)"],
-        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."],
+        "volt":["red", "Keine Erwähnung von Michi im Wahlprogramm, aber auch keine direkte Infragestellung des individuellen Rechts auf Asyl."]
        }
       }
     ]
