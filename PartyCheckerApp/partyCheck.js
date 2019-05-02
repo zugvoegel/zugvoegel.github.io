@@ -26,7 +26,7 @@ function makePositionSymbolCSS(base_url, position_symbol_list){
     `
 
     style_rules.push(style);
-  })};
+  });
 
   /* ... */
 
