@@ -87,8 +87,9 @@ function setupTable(base_url, target_div, data){
 
   $.each(data.parties, function(index, party){
     let party_pic = makeGlobalUrl(base_url, party.pic);
+    let party_url = party.url;
     party_list.push(party.name)
-    parteicheck_header.append(`<th><img height="40px" src="${party_pic}"/></th>`);
+    parteicheck_header.append(`<th><a href="${party_url}"><img height="40px" src="${party_pic}"/></a></th>`);
   })
 
   var valid_position_symbols = [];
