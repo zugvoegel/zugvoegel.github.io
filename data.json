@@ -1,5 +1,5 @@
 {"parties": [
-  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_cdu.jpg", "name":"cdu", "url":"https://www.cdu.de"},
+  {"pic":"logo_cdu.jpg", "name":"cdu", "url":"https://www.cdu.de"},
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"spd", "url":"#"},
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_fdp.jpg", "name":"fdp", "url":"#"},
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_cdu.jpg", "name":"grüne", "url":"#"},
