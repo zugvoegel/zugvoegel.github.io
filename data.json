@@ -12,8 +12,8 @@
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"dkp", "url":"#"},
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_cdu.jpg", "name":"humanisten", "url":"#"},
   {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_fdp.jpg", "name":"mlpd", "url":"#"},
-  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"diem", "url":"#"},
-  {"pic":"https://visawie.org/wp-content/uploads/2017/09/logo_spd.jpg", "name":"volt", "url":"#"}
+  {"pic":"logo_diem.png", "name":"diem", "url":"https://www.deineuropa.jetzt"},
+  {"pic":"logo_volt.jpg", "name":"volt", "url":"https://www.volteuropa.org"}
 ],
 "position_symbols": [
   {"shorthand":"green", "symbol_url":"green_tick.jpg"},
