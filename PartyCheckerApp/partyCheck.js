@@ -83,7 +83,7 @@ function setupTable(base_url, target_div, data){
 
   let table = $('<table border="1" class="parteiencheck"></table>');
   target_div.append(table);
-  let parteicheck_header = $("<tr><th>Forderung im Wahlprogramm</th>");
+  let parteicheck_header = $("<tr><th></th></tr>");
   table.append(parteicheck_header);
 
   $.each(data.parties, function(index, party){
