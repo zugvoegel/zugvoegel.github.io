@@ -35,6 +35,9 @@
   text-decoration: none;
   cursor: pointer;
 }
+.parteiencheck td{
+  padding: 5px 10px 5px 5px;
+}
 
 table.parteiencheck, th.parteiencheck, td.parteiencheck {
  border: 1px solid black;
