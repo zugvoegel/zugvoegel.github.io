@@ -90,7 +90,7 @@ function setupTable(base_url, target_div, data){
     let party_pic = makeGlobalUrl(base_url, party.pic);
     let party_url = party.url;
     party_list.push(party.name)
-    parteicheck_header.append(`<th><a href="${party_url}" target="_blank"><img width="50px" src="${party_pic}"/></a></th>`);
+    parteicheck_header.append(`<th><a href="${party_url}" target="_blank"><img class="party_logo" src="${party_pic}"/></a></th>`);
   })
 
   var valid_position_symbols = [];
