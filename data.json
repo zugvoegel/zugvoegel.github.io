@@ -35,7 +35,7 @@
         "fw":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
         "piraten":["green", "»Die Migrations- und Asylpolitik hat die Menschenwürde von Migranten und Asylsuchenden zu achten.« (S. 17)"],
         "tierschutz":["green", "»Die Europäische Union muss eine humane und wirksame Asyl- und Flüchtlingspolitik gestalten, das heißt: Menschenleben retten, Geflüchtete schützen und das Recht auf Asyl stärken.«"],
-        "ödp":["yellow", "»Aufgrund unserer Mitverantwortung für Fluchtursachen sind die Gewährung von Asyl und die Umsetzung der Genfer Flüchtlingskonvention ein unverzichtbarer Akt der Menschlichkeit. « (S. 74)"],
+        "ödp":["yellow", "»Aufgrund unserer Mitverantwortung für Fluchtursachen sind die Gewährung von Asyl und die Umsetzung der Genfer Flüchtlingskonvention ein unverzichtbarer Akt der Menschlichkeit. «"],
         "partei":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "dkp":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "humanisten":["green", "»Gruppenbezogene Gewalt, Krieg und persönliche Verfolgung verpflichten uns ohne jeden Zweifel zu humanitärer Hilfe.« und »Bei individuell bestehendem Asylgrund wollen wir eine sichere Einreise nach Europa gewährleisten«"],
