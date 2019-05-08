@@ -39,7 +39,7 @@
         "partei":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "dkp":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "humanisten":["green", "»Gruppenbezogene Gewalt, Krieg und persönliche Verfolgung verpflichten uns ohne jeden Zweifel zu humanitärer Hilfe.« und »Bei individuell bestehendem Asylgrund wollen wir eine sichere Einreise nach Europa gewährleisten«"],
-        "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
+        "mlpd":["green", "»Für das Recht auf Flucht und freie Wahl des Wohnortes«"],
         "diem":["green", "»Wir verlangen ein geimensames europäisches Asylverfahren (CEAS), das internationales und europäisches Recht respektiert und die Grundrechte der migrierten Menschen garantiert.«"],
         "volt":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"]
        }
@@ -115,7 +115,7 @@
         "partei":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "dkp":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "humanisten":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
+        "mlpd":["green", "»Seenotrettung ist Menschenrecht und -pflicht!«"],
         "diem":["green", "»Wir fordern die Einrichtung eines europäischen Such- und Rettungsdienstes (ESRO), der die Aufgabe hat, Menschen in Seenot zu retten und an einen sicheren Ort zu bringen, so wie es das internationale Seerecht vorschreibt.« und »Mit der Einrichtung des ESRO verpflichten wir uns, die Zahl der Todesfälle auf See auf Null zu reduzieren.«"],
         "volt":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"]
        }
@@ -134,7 +134,7 @@
         "partei":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "dkp":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "humanisten":["green", "»Hierfür plädieren wir für ein solidarisches europäisches Asylsystem, welches Geflüchtete nach klaren Kriterien innerhalb Europas verteilt. Zu den Kriterien zählen etwa die Bevölkerungsgröße und Wirtschaftskraft der aufnehmenden Regionen.«"],
-        "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
+        "mlpd":["green", "»Schluss mit den Dublin-Abkommen! Asylrecht auf antifaschistischer Grundlage.«"],
         "diem":["green", "»Wir verlangen ein gemeinsames europäisches Asylverfahren (CEAS), das internationales und europäisches Recht respektiert und die Grundrechte der migrierten Menschen garantiert.« und »Wir werden dafür kämpfen, das so genannte „Hotspot-System“ zur Migrationskontrolle zu beenden und die Lebensbedingungen von Migrant*innen schnell verbessern. Das Festhalten immigrierter Menschen in geschlossenen Auffanglagern muss beendet werden, besonders die Internierung von Kindern.«"],
         "volt":["green", "»The Dublin System must be reformed and complemented by a settlement scheme which provides for penalties and sanctions against States refusing to fulfil their responsibility.« und »We will push to move the responsibility for the management of refugees to the European level, as far as possible in the absence of exclusive EU competence. We will propose minimum harmonisation on the conditions for the application of asylum that will be applied in each European country. In order to establish those criteria, we will push for an enhancement of the mandate of EASO (the Malta Asylum Office) to develop a standardised asylum process on the basis of data that is centrally available. We will then push for an amendment of Regulation 604/2013, the so-called Dublin Regulation. This amendment will replace the first country of arrival as the country in which an asylum application has to take place. Instead, a principle of preference will be followed: asylum-seekers will be granted the right of passage to apply for asylum in those countries in which they prefer to stay. After the initial commencement of the asylum procedure in the country of preference, asylum-seekers will enter a resettlement system to ensure that European countries manage the refugee flow together. The conditions for resettlement will be based on objective factors such as population density, wealth, age, and growth. The amended system will allow European countries to contribute with accommodation capacity or funding. Countries who do not abide by it will be sanctioned in the form of withdrawal of benefits, putting a price on the absence of solidarity.«"]
        }
@@ -172,7 +172,7 @@
         "partei":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "dkp":["green", "»Mit schmutzigen Deals und sogenannten Rücknahmeabkommen, Auffanglagern und der militärischen Grenzschutzagentur Frontex schottet sie sich vor dem selbst verursachten Elend ab.«"],
         "humanisten":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
+        "mlpd":["yellow", "»Abbruch der diplomatischen Beziehungen zur Türkei und anderen faschistischen Regierungen!«"],
         "diem":["yellow", "»􏱁􏱳􏱠Die EU und ihre Mitgliedsstaaten arbeiten derzeit mit Ländern wie der Türkei, dem Sudan und Libyen zusammen, um die Migration nach Europa zu verhindern. (...) Wir fordern die Beendigung all dieser „Deals“  einschließlich des EU-Türkei-Abkommens, der Vereinbarungen mit den libyschen Behörden und der Finanzierung der Migrationskontrolle im Sudan und anderen Ländern.« und »Die Zusammenarbeit mit den Herkunfts- und Transitländern selbst sollte nur dann erlaubt sein, wenn diese nicht nur die Menschenrechte respektieren, einschließlich des Rechts, woanders zu leben, sondern auch deren Einhaltung überwachen und in Fällen von Rechtsverletztungen geeignete Maßnahmen ergreifen.«"],
         "volt":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"]
        }
@@ -191,7 +191,7 @@
         "partei":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "dkp":["green", "»Die DKP sagt: Fluchtverursacher bekämpfen, nicht Geflüchtete! Frontex abschaffen!«"],
         "humanisten":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "mlpd":["green", "»Wir Freie Demokraten halten das Menschenrecht auf Asyl für nicht verhandelbar. Wir lehnen deshalb auch jede Form von festgelegten Obergrenzen bei der Gewährung von Asyl klar ab. Eine solche Obergrenze würde dem Grundgesetz widersprechen.« (S. 107)"],
+        "mlpd":["green", "»Stoppt Frontex und andere militärische Abwehrmaßnahmen gegen Flüchtlinge, Rückbau von Grenzzäunen wie in Ceuta, Melilla und Bulgarien.«"],
         "diem":["yellow", "»Obwohl die als Frontex bekannte Grenz- und Küstenwache an den Außengrenzen Europas patrouilliert, hat sie den Tod von Migrant*innen, die auf dem Seeweg nach Europa reisten, nicht verhindert.«"],
         "volt":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"]
        }
