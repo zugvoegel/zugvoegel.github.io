@@ -53,6 +53,12 @@ margin: 0;
 padding: 0;
 }
 
+.topic_header{
+  font-weight: bold;
+  text-align:center;
+  padding: 10px;
+}
+
 /* .green {
 background: white url("https://visawie.org/wp-content/uploads/2017/09/green_tick.jpg") no-repeat;
 background-size:56px 40px;

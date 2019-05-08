@@ -29,7 +29,8 @@ function makePositionSymbolCSS(base_url, position_symbol_list){
 
     var style = `.${shorthand} {
     background: white url("${global_url}") no-repeat;
-    background-size:56px 40px;
+    background-size: 56px 40px;
+    background-position: center;
     }
     `
 
