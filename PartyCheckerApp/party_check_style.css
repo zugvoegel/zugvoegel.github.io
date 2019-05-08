@@ -67,8 +67,7 @@ padding: 0;
 }
 
 img.party_logo {
-  min-width: 50px;
-  max-height: 60px;
+  width: 50px;
 }
 /* .green {
 background: white url("https://visawie.org/wp-content/uploads/2017/09/green_tick.jpg") no-repeat;
