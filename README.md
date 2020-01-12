@@ -7,16 +7,16 @@
    * "Ein neues benutzerdefiniertes Feld hinzufügen:" -> "Neu Eingeben". 
    
    Wir brauchen 2 felder:
-   Name = "CODEjQuery"
-   Wert:
+   Name = "CODEjQuery"   
+   Wert:   
    ```HTML
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
    ```
    
    und
    
-   Name = "CODEparteichecker"
-   Wert:
+   Name = "CODEparteichecker"   
+   Wert:   
    ```HTML
    <script>
   // jQuery
