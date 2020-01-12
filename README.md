@@ -6,7 +6,7 @@
 * ganz unten zwei neue benutzerdefinierte felder hinzufügen. Dazu
    * "Ein neues benutzerdefiniertes Feld hinzufügen:" -> "Neu Eingeben". 
    
-   Wir brauchen 2 felder:
+   Wir brauchen 2 felder:   
    Name = "CODEjQuery"   
    Wert:   
    ```HTML
