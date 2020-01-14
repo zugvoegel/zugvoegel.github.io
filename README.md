@@ -1,4 +1,7 @@
-# zugvoegel.github.io
+This is Code for the political [party comparisson](https://zugvoegel.org/parteiencheck-europawahl-2019/) at zugvoegel.org
+
+
+
 # Usage with wordpress
 * stelle sicher dass das [Code Embed](https://wordpress.org/plugins/simple-embed-code/) plugin installiert ist
 * in the desired wordpress site activate "custom fields" 
