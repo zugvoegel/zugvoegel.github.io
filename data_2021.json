@@ -1,1 +1,196 @@
+{"parties": [
+  {"pic":"logo_cdu.jpg", "name":"cdu", "url":"https://www.cdu.de"},
+  {"pic":"logo_spd.svg", "name":"spd", "url":"https://www.spd.de"},
+  {"pic":"logo_fdp.jpg", "name":"fdp", "url":"https://www.fdp.de"},
+  {"pic":"logo_gruene.svg", "name":"grüne", "url":"https://www.gruene.de"},
+  {"pic":"logo_linke.svg", "name":"linke", "url":"https://www.die-linke.de/am-26-mai-die-linke-waehlen/"},
+  {"pic":"logo_afd.png", "name":"afd", "url":""}
+],
+"position_symbols": [
+  {"shorthand":"green", "symbol_url":"green_tick.jpg"},
+  {"shorthand":"red", "symbol_url":"red_cross.jpg"},
+  {"shorthand":"yellow", "symbol_url":"yellow_circle.jpg"},
+  {"shorthand":"grey", "symbol_url":"grey_dash.jpg"}
+],
+"topics": [
+  {
+  "title": "Thema: Fluchtursachen und Asyl",
+  "items": [
+      {"title": "Individuelles Recht auf Asyl bewahren",
+      "positions": {
+        "cdu":["yellow", "»Unser Europa bekennt sich zu seinen rechtlichen und humanitären Verpflichtungen. Zugleich wollen wir, dass die Zahl der Flüchtlinge, die zu uns kommen, dauerhaft niedrig bleibt.« (S. 14)"],
+        "spd":["green", "»Das Recht auf Asyl ist ein Menschenrecht.« und »In allen Mitgliedsstaaten muss in Asylverfahren gelten: Diejenigen, die in Europa Schutz suchen, weil sie in ihrer Heimat aufgrund ihrer sexueller Orientierung oder geschlechtlichen Identität verfolgt werden, müssen grundsätzlich als Asylbewerber und Asylbewerberinnen anerkannt werden«"],
+        "fdp":["green", "»Wir Freie Demokraten wollen politisch Verfolgten ohne Wenn und Aber Asyl gewähren.«"],
+        "grüne":["green", "»Die EU-Länder müssen ihren Anteil an dem jährlichen, vom UNHCR ermittelten Resettlement-Bedarf entsprechend ihrer Wirtschaftskraft erfüllen. Das individuelle Asylrecht wird dadurch nicht angetastet«"],
+        "linke":["green", "»Flucht ist kein Verbrechen! Der individuelle Zugang zu Asylverfahren und Rechtsschutz muss für Asylsuchende an den EU-Außengrenzen sichergestellt werden.« (S. 40)"],
+        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+       }
+      },
+      {"title": "Legale, sichere Zugangswege",
+      "positions": {
+        "cdu":["yellow", "»Unser Europa bekennt sich zu seinen rechtlichen und humanitären Verpflichtungen. Zugleich wollen wir, dass die Zahl der Flüchtlinge, die zu uns kommen, dauerhaft niedrig bleibt.« (S. 14)"],
+        "spd":["green", "»Das Recht auf Asyl ist ein Menschenrecht.« und »In allen Mitgliedsstaaten muss in Asylverfahren gelten: Diejenigen, die in Europa Schutz suchen, weil sie in ihrer Heimat aufgrund ihrer sexueller Orientierung oder geschlechtlichen Identität verfolgt werden, müssen grundsätzlich als Asylbewerber und Asylbewerberinnen anerkannt werden«"],
+        "fdp":["green", "»Wir Freie Demokraten wollen politisch Verfolgten ohne Wenn und Aber Asyl gewähren.«"],
+        "grüne":["green", "»Die EU-Länder müssen ihren Anteil an dem jährlichen, vom UNHCR ermittelten Resettlement-Bedarf entsprechend ihrer Wirtschaftskraft erfüllen. Das individuelle Asylrecht wird dadurch nicht angetastet«"],
+        "linke":["green", "»Flucht ist kein Verbrechen! Der individuelle Zugang zu Asylverfahren und Rechtsschutz muss für Asylsuchende an den EU-Außengrenzen sichergestellt werden.« (S. 40)"],
+        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+       }
+      },
+    {"title": "Humanitäres Visum",
+      "positions": {
+        "cdu":["yellow", "»Unser Europa bekennt sich zu seinen rechtlichen und humanitären Verpflichtungen. Zugleich wollen wir, dass die Zahl der Flüchtlinge, die zu uns kommen, dauerhaft niedrig bleibt.« (S. 14)"],
+        "spd":["green", "»Das Recht auf Asyl ist ein Menschenrecht.« und »In allen Mitgliedsstaaten muss in Asylverfahren gelten: Diejenigen, die in Europa Schutz suchen, weil sie in ihrer Heimat aufgrund ihrer sexueller Orientierung oder geschlechtlichen Identität verfolgt werden, müssen grundsätzlich als Asylbewerber und Asylbewerberinnen anerkannt werden«"],
+        "fdp":["green", "»Wir Freie Demokraten wollen politisch Verfolgten ohne Wenn und Aber Asyl gewähren.«"],
+        "grüne":["green", "»Die EU-Länder müssen ihren Anteil an dem jährlichen, vom UNHCR ermittelten Resettlement-Bedarf entsprechend ihrer Wirtschaftskraft erfüllen. Das individuelle Asylrecht wird dadurch nicht angetastet«"],
+        "linke":["green", "»Flucht ist kein Verbrechen! Der individuelle Zugang zu Asylverfahren und Rechtsschutz muss für Asylsuchende an den EU-Außengrenzen sichergestellt werden.« (S. 40)"],
+        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+       }
+      },
+    {"title": "Seenotrettung in europäischer Verantwortung",
+      "positions": {
+        "cdu":["yellow", "»Unser Europa bekennt sich zu seinen rechtlichen und humanitären Verpflichtungen. Zugleich wollen wir, dass die Zahl der Flüchtlinge, die zu uns kommen, dauerhaft niedrig bleibt.« (S. 14)"],
+        "spd":["green", "»Das Recht auf Asyl ist ein Menschenrecht.« und »In allen Mitgliedsstaaten muss in Asylverfahren gelten: Diejenigen, die in Europa Schutz suchen, weil sie in ihrer Heimat aufgrund ihrer sexueller Orientierung oder geschlechtlichen Identität verfolgt werden, müssen grundsätzlich als Asylbewerber und Asylbewerberinnen anerkannt werden«"],
+        "fdp":["green", "»Wir Freie Demokraten wollen politisch Verfolgten ohne Wenn und Aber Asyl gewähren.«"],
+        "grüne":["green", "»Die EU-Länder müssen ihren Anteil an dem jährlichen, vom UNHCR ermittelten Resettlement-Bedarf entsprechend ihrer Wirtschaftskraft erfüllen. Das individuelle Asylrecht wird dadurch nicht angetastet«"],
+        "linke":["green", "»Flucht ist kein Verbrechen! Der individuelle Zugang zu Asylverfahren und Rechtsschutz muss für Asylsuchende an den EU-Außengrenzen sichergestellt werden.« (S. 40)"],
+        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+       }
+      },
+    {"title": "Abschaffung/Reform der Dublin-Verordnung",
+      "positions": {
+        "cdu":["yellow", "»Unser Europa bekennt sich zu seinen rechtlichen und humanitären Verpflichtungen. Zugleich wollen wir, dass die Zahl der Flüchtlinge, die zu uns kommen, dauerhaft niedrig bleibt.« (S. 14)"],
+        "spd":["green", "»Das Recht auf Asyl ist ein Menschenrecht.« und »In allen Mitgliedsstaaten muss in Asylverfahren gelten: Diejenigen, die in Europa Schutz suchen, weil sie in ihrer Heimat aufgrund ihrer sexueller Orientierung oder geschlechtlichen Identität verfolgt werden, müssen grundsätzlich als Asylbewerber und Asylbewerberinnen anerkannt werden«"],
+        "fdp":["green", "»Wir Freie Demokraten wollen politisch Verfolgten ohne Wenn und Aber Asyl gewähren.«"],
+        "grüne":["green", "»Die EU-Länder müssen ihren Anteil an dem jährlichen, vom UNHCR ermittelten Resettlement-Bedarf entsprechend ihrer Wirtschaftskraft erfüllen. Das individuelle Asylrecht wird dadurch nicht angetastet«"],
+        "linke":["green", "»Flucht ist kein Verbrechen! Der individuelle Zugang zu Asylverfahren und Rechtsschutz muss für Asylsuchende an den EU-Außengrenzen sichergestellt werden.« (S. 40)"],
+        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+       }
+      },
+    {"title": "Ablehnung des Konzepts Sichere Herkunftsstaaten",
+      "positions": {
+        "cdu":["yellow", "»Unser Europa bekennt sich zu seinen rechtlichen und humanitären Verpflichtungen. Zugleich wollen wir, dass die Zahl der Flüchtlinge, die zu uns kommen, dauerhaft niedrig bleibt.« (S. 14)"],
+        "spd":["green", "»Das Recht auf Asyl ist ein Menschenrecht.« und »In allen Mitgliedsstaaten muss in Asylverfahren gelten: Diejenigen, die in Europa Schutz suchen, weil sie in ihrer Heimat aufgrund ihrer sexueller Orientierung oder geschlechtlichen Identität verfolgt werden, müssen grundsätzlich als Asylbewerber und Asylbewerberinnen anerkannt werden«"],
+        "fdp":["green", "»Wir Freie Demokraten wollen politisch Verfolgten ohne Wenn und Aber Asyl gewähren.«"],
+        "grüne":["green", "»Die EU-Länder müssen ihren Anteil an dem jährlichen, vom UNHCR ermittelten Resettlement-Bedarf entsprechend ihrer Wirtschaftskraft erfüllen. Das individuelle Asylrecht wird dadurch nicht angetastet«"],
+        "linke":["green", "»Flucht ist kein Verbrechen! Der individuelle Zugang zu Asylverfahren und Rechtsschutz muss für Asylsuchende an den EU-Außengrenzen sichergestellt werden.« (S. 40)"],
+        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+       }
+      },
+    {"title": "Ablehnung von Rücknahmeabkommen allgemein (z.B. mit der Türkei und anderen nordafrikanischen Staaten)",
+      "positions": {
+        "cdu":["yellow", "»Unser Europa bekennt sich zu seinen rechtlichen und humanitären Verpflichtungen. Zugleich wollen wir, dass die Zahl der Flüchtlinge, die zu uns kommen, dauerhaft niedrig bleibt.« (S. 14)"],
+        "spd":["green", "»Das Recht auf Asyl ist ein Menschenrecht.« und »In allen Mitgliedsstaaten muss in Asylverfahren gelten: Diejenigen, die in Europa Schutz suchen, weil sie in ihrer Heimat aufgrund ihrer sexueller Orientierung oder geschlechtlichen Identität verfolgt werden, müssen grundsätzlich als Asylbewerber und Asylbewerberinnen anerkannt werden«"],
+        "fdp":["green", "»Wir Freie Demokraten wollen politisch Verfolgten ohne Wenn und Aber Asyl gewähren.«"],
+        "grüne":["green", "»Die EU-Länder müssen ihren Anteil an dem jährlichen, vom UNHCR ermittelten Resettlement-Bedarf entsprechend ihrer Wirtschaftskraft erfüllen. Das individuelle Asylrecht wird dadurch nicht angetastet«"],
+        "linke":["green", "»Flucht ist kein Verbrechen! Der individuelle Zugang zu Asylverfahren und Rechtsschutz muss für Asylsuchende an den EU-Außengrenzen sichergestellt werden.« (S. 40)"],
+        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+       }
+      },
+    {"title": "Abschaffung von Frontex",
+      "positions": {
+        "cdu":["yellow", "»Unser Europa bekennt sich zu seinen rechtlichen und humanitären Verpflichtungen. Zugleich wollen wir, dass die Zahl der Flüchtlinge, die zu uns kommen, dauerhaft niedrig bleibt.« (S. 14)"],
+        "spd":["green", "»Das Recht auf Asyl ist ein Menschenrecht.« und »In allen Mitgliedsstaaten muss in Asylverfahren gelten: Diejenigen, die in Europa Schutz suchen, weil sie in ihrer Heimat aufgrund ihrer sexueller Orientierung oder geschlechtlichen Identität verfolgt werden, müssen grundsätzlich als Asylbewerber und Asylbewerberinnen anerkannt werden«"],
+        "fdp":["green", "»Wir Freie Demokraten wollen politisch Verfolgten ohne Wenn und Aber Asyl gewähren.«"],
+        "grüne":["green", "»Die EU-Länder müssen ihren Anteil an dem jährlichen, vom UNHCR ermittelten Resettlement-Bedarf entsprechend ihrer Wirtschaftskraft erfüllen. Das individuelle Asylrecht wird dadurch nicht angetastet«"],
+        "linke":["green", "»Flucht ist kein Verbrechen! Der individuelle Zugang zu Asylverfahren und Rechtsschutz muss für Asylsuchende an den EU-Außengrenzen sichergestellt werden.« (S. 40)"],
+        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+       }
+      },
+    {"title": "Sofortiger Abschiebestopp",
+      "positions": {
+        "cdu":["yellow", "»Unser Europa bekennt sich zu seinen rechtlichen und humanitären Verpflichtungen. Zugleich wollen wir, dass die Zahl der Flüchtlinge, die zu uns kommen, dauerhaft niedrig bleibt.« (S. 14)"],
+        "spd":["green", "»Das Recht auf Asyl ist ein Menschenrecht.« und »In allen Mitgliedsstaaten muss in Asylverfahren gelten: Diejenigen, die in Europa Schutz suchen, weil sie in ihrer Heimat aufgrund ihrer sexueller Orientierung oder geschlechtlichen Identität verfolgt werden, müssen grundsätzlich als Asylbewerber und Asylbewerberinnen anerkannt werden«"],
+        "fdp":["green", "»Wir Freie Demokraten wollen politisch Verfolgten ohne Wenn und Aber Asyl gewähren.«"],
+        "grüne":["green", "»Die EU-Länder müssen ihren Anteil an dem jährlichen, vom UNHCR ermittelten Resettlement-Bedarf entsprechend ihrer Wirtschaftskraft erfüllen. Das individuelle Asylrecht wird dadurch nicht angetastet«"],
+        "linke":["green", "»Flucht ist kein Verbrechen! Der individuelle Zugang zu Asylverfahren und Rechtsschutz muss für Asylsuchende an den EU-Außengrenzen sichergestellt werden.« (S. 40)"],
+        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+       }
+      },
+    {"title": "Klima als Fluchtursache anerkennen",
+      "positions": {
+        "cdu":["yellow", "»Unser Europa bekennt sich zu seinen rechtlichen und humanitären Verpflichtungen. Zugleich wollen wir, dass die Zahl der Flüchtlinge, die zu uns kommen, dauerhaft niedrig bleibt.« (S. 14)"],
+        "spd":["green", "»Das Recht auf Asyl ist ein Menschenrecht.« und »In allen Mitgliedsstaaten muss in Asylverfahren gelten: Diejenigen, die in Europa Schutz suchen, weil sie in ihrer Heimat aufgrund ihrer sexueller Orientierung oder geschlechtlichen Identität verfolgt werden, müssen grundsätzlich als Asylbewerber und Asylbewerberinnen anerkannt werden«"],
+        "fdp":["green", "»Wir Freie Demokraten wollen politisch Verfolgten ohne Wenn und Aber Asyl gewähren.«"],
+        "grüne":["green", "»Die EU-Länder müssen ihren Anteil an dem jährlichen, vom UNHCR ermittelten Resettlement-Bedarf entsprechend ihrer Wirtschaftskraft erfüllen. Das individuelle Asylrecht wird dadurch nicht angetastet«"],
+        "linke":["green", "»Flucht ist kein Verbrechen! Der individuelle Zugang zu Asylverfahren und Rechtsschutz muss für Asylsuchende an den EU-Außengrenzen sichergestellt werden.« (S. 40)"],
+        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+       }
+      }
+    ]
+  },
 
+  {"title": "Thema: Einwanderung und Visapolitik",
+  "items": [
+      {"title": "Forderung eines europäischen Einwanderungsgesetzes",
+      "positions": {
+        "cdu":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
+        "spd":["yellow", "»(...) brauchen wir einheitliche und einfache Regelungen für legale Zuwanderung nach Europa, die sich nicht ausschließlich an ökonomischen Kriterien orientiert. Als Vorbild kann hier die deutsche Regelung für eine vereinfachte Arbeitsmigration für den Westbalkan dienen.« und »(...) einheitliche und einfache Regelungen für legale Zuwanderung nach Europa. Das deutsche Fachkräfteeinwanderungsgesetz könnte hierfür als Vorlage dienen.«"],
+        "fdp":["green", "»Wir Freie Demokraten wollen ein einheitliches europäisches Asyl-, Flüchtlings- und Einwanderungsrecht.« und »Im Rahmen eines einheitlichen europäischen Asyl-, Flüchtlings- und Einwanderungsrechts muss klar zwischen Flucht, Asyl und arbeitsmarktbezogener Einwanderung unterschieden werden. Die EU muss ihre Attraktivität für qualifizierte Facharbeiterinnen und Facharbeiter sowie Studierende aus Nicht-EU-Staaten erhöhen. Hierzu fordern wir die Einführung eines europäischen kriterienbasierten Punktesystems nach einheitlichen Maßstäben, welches etwa die Abschlüsse und Sprachkenntnisse gewichtet und auf dessen Grundlage die Mitgliedstaaten nationale Kontingente und Bedarfsanalysen festlegen und durchführen können.«"],
+        "grüne":["green", "»Mit dem UN- Migrationspakt (Global Compact for Migration) haben die Mitgliedstaaten der Vereinten Nationen ein sehr umfassendes Rahmenwerk für sichere und geordnete Migration erarbeitet. Auf dieser Grundlage soll ein europäisches Einwanderungsrecht mit gemeinsamen Rahmenregelungen dabei helfen, gleiche Standards in Europa für die sichere und legale Einwanderung von Menschen mit verschiedenen Qualifikationsniveaus und deren Familien zu etablieren«"],
+        "linke":["yellow", "»Wir wollen einen Politikwechsel in der Einwanderungs- und Flüchtlingspolitik der EU und fordern daher einen Dreiklang: (...) 1. Menschen retten (...) 2. Grundrechte europaweit durchsetzen (...) 3. Fluchtursachen endlich tatsächlich bekämpfen« (S. 40)"],
+        "fw":["yellow", "»Wir FREIE WÄHLER wollen eine klare Trennung von Zuwanderung und Einwanderung: Für qualifizierte Arbeitskräfte wollen wir das Modell der europäischen Blue-Card ausbauen.« (S. 15)"],
+        "piraten":["yellow", "»Die Europäischen PIRATEN fordern eine gemeinsame europäische Einwanderungspolitik, (...) die legale Zuwanderungswege in den europäischen Arbeitsmarkt eröffnet (...) Sprachkenntnisse (...) positiv berücksichtigt (...) Berufsqualifikationen in einem vereinfachten Verfahren anerkennt (...) es den Mitgliedsstaaten ermöglicht, ihre Anforderungen (...) festzulegen« (S. 17)"],
+        "tierschutz":["green", "»Wir wollen ein modernes EU-weites Einwanderungsgesetz nach dem Punktemodell, das Arbeitsaufnahme, Arbeitssuche und Ausbildung ermöglicht.«"],
+        "ödp":["green", "»Die ÖDP fordert daher auf EU-Ebene: (...) für die Arbeitsmigration aus Nicht-EU-Staaten: Die Schaffung eines Zuwanderungsgesetzes, das faire Chancen auf legale Zuwanderung in die EU bietet, aber nicht zu einer übermäßigen Abwanderung gut qualifizierter Fachkräfte aus den Herkunftsländern führt.«"],
+        "humanisten":["green", "»Wir fordern [...] einheitliche Koordinierung der Migration auf EU-Ebene.« und »Wir fordern ein Migrationssystem, das Kriterien wie berufliche Qualifikation und Ausbildung, Sprachkenntnisse und einen Wertetest, aber auch die Nachfrage der Qualifikationen in den verschiedenen Regionen berücksichtigt.«"],
+        "mlpd":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "diem":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "volt":["yellow", "»Protect both domestic and foreign workers against the negative effects of economic migration, by applying minimal harmonization among all Euro- pean countries ensuring that access to basic social, legal and medical services is guaranteed.«"]
+       }
+      },
+      {"title": "Zuzug von Fachkräften in die EU erleichtern",
+      "positions": {
+        "cdu":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
+        "spd":["green", "»Ein europäisches Konzept gegen den Fachkräftemangel. Wir brauchen für Unternehmen wie für außereuropäische Arbeitnehmerinnen und Arbeitnehmer einheitliche und einfache Regelungen für legale Zuwanderung nach Europa. Das deutsche Fachkräfteeinwanderungsgesetz könnte hierfür als Vorlage dienen.«"],
+        "fdp":["green", "»Die gezielte Anwerbung von Fachkräften aus Drittstaaten, die nach einem kriterienbasierten Punktesystem ein Arbeitsvisum erhalten können, wollen wir zukünftig mit der Gründung einer europäischen Fachkräfteagentur und von europäischen Ausbildungszentren in Drittstaaten unterstützen.« und »Damit wird erwünschte Fachkräfteeinwanderung effektiv und effizient nach europäischen Kriterien gesteuert und illegaler Wirtschaftsmigration der Boden entzogen«"],
+        "grüne":["yellow", "»Da bislang nur ein europäisches System der Arbeitsmigration für Hochqualifizierte besteht, gehen jedoch auch potenzielle Migrant*innen den Weg über das Asylsystem und scheitern. Arbeitsmigration ist jedoch nicht nur eine Realität, sondern in Zeiten des Fachkräftemangels und demografischen Wandels auch eine Notwendigkeit für Staaten wie Deutschland.«"],
+        "linke":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "fw":["green", "»Für qualifizierte Arbeitskräfte wollen wir das Modell der europäischen Blue-Card ausbauen.« (S. 15)"],
+        "piraten":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "tierschutz":["green", "»Wir setzen uns daher für ein modernes Einwanderungsgesetz ein, das Talenten und Fachkräften ermöglicht, sich ohne Hürden in der EU niederzulassen.«"],
+        "ödp":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "humanisten":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "mlpd":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "diem":["green", "»Wir werden das EU-Blue-Card-System erweitern, so dass Arbeitssuchende von außerhalb der EU die Möglichkeit erhalten, nach Europa zu kommen.«"],
+        "volt":["green", "»We will push for a reform of “Your Europe” to include labour migration and integration for EU and non-EU citizens wanting to live and work in another EU country. In addition, once in Parliament, we will revisit the Single Permit Directive and the Long-Term Resident Directive to ensure that the groups of migrants that qualify for application under these procedures are sufficiently diverse.« und »n addition, we will lobby for one coherent European strategy of 'attracting the best talent' and actively market it in “target countries” through EU delegations and Member State embassies.« und »once in Parliament, we will draft a proposal for a new legislative instrument in the form of a location-specific temporary residence and working permit available to non-EU migrants falling within a specific category of labour migrants, such as health workers or builders, of which there exists a shortage on the European labour market.«"]
+       }
+      },
+    {"title": "Zuzug von Nicht-EU-Studierenden und -Auszubildenden erleichtern",
+      "positions": {
+        "cdu":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
+        "spd":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "fdp":["yellow", "»Die EU muss ihre Attraktivität für qualifizierte Facharbeiterinnen und Facharbeiter sowie Studierende aus Nicht-EU- Staaten erhöhen«"],
+        "grüne":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "linke":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "fw":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "piraten":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "tierschutz":["green", "»Wir wollen ein modernes EU-weites Einwanderungsgesetz nach dem Punktemodell, das Arbeitsaufnahme, Arbeitssuche und Ausbildung ermöglicht.«"],
+        "ödp":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "humanisten":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "mlpd":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "diem":["green", "»Wir werden neue Bildungs- und Arbeitsmobilitätsprogramme erarbeiten, die Studierende und Arbeitnehmer*innen von außerhalb Europas zu uns bringen.«"],
+        "volt":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"]
+       }
+      },
+    {"title": "Bessere Anerkennung von außereuropäischen Abschlüssen",
+      "positions": {
+        "cdu":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
+        "spd":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "fdp":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "grüne":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "linke":["green", "»Es braucht eine bessere Anerkennung der Qualifikationen und Abschlüsse von Nicht-EU-Bürger*innen, damit diese ihre Berufe weiter ausüben können.« (S. 41)"],
+       }
+      },
+    {"title": "Statuswechsel: Möglichkeit, Asylstatus in dauerhaften Aufenthaltstitel umzuwandeln",
+      "positions": {
+        "cdu":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
+        "spd":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+        "fdp":["green", "»In diesem Zusammenhang soll im Rahmen der Systemumstellung der „Spur- wechsel“ vom Asylverfahren in ein Einwanderungsverfahren ermöglicht werden.«"],
+        "grüne":["green", "»Menschen, die bereits in Europa sind und die in Beschäftigung stehen, sollen im Rahmen eines sogenannten Spurwechsels ins europäische Einwanderungssystem wechseln und hier bleiben können.«"],
+        "linke":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
+       }
+      }
+    ]
+  }
+]
+}
