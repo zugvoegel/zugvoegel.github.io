@@ -5,8 +5,8 @@ This is Code for the political [party comparisson](https://zugvoegel.org/parteie
 # Usage with wordpress
 * stelle sicher dass das [Code Embed](https://wordpress.org/plugins/simple-embed-code/) plugin installiert ist
 * in the desired wordpress site activate "custom fields" 
-   * "ansicht anpassen" (oben rechts) -> "erweiterte felder" ankreuzen   
-* ganz unten zwei neue benutzerdefinierte felder hinzufügen. Dazu
+   * "ansicht anpassen" (oben rechts) -> "individuelle felder" ankreuzen   
+* ganz unten zwei neue individuelle felder hinzufügen. Dazu
    * "Ein neues benutzerdefiniertes Feld hinzufügen:" -> "Neu Eingeben". 
    
    Wir brauchen 2 felder:   
