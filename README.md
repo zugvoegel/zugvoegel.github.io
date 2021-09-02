@@ -40,7 +40,10 @@ This is Code for the political [party comparisson](https://zugvoegel.org/parteie
 <div id="target_table"><p></p></div>
    ```
    
-* innerhalb des artikels an der gewünschten Stelle `{{CODEjQuery}}{{CODEparteichecker}}` einfügen.
+* Im Artikel den Editior auf 'Text' statt 'Visuell' umstellen (oben rechts) und an der gewünschten Stelle 
+```{{CODEjQuery}}{{CODEparteichecker}}
+<div id="target_table"></div>```
+einfügen.
 
 # Ändern des inhalts
 Die tabelle kommt aus der datei `let json_file_path ="https://zugvoegel.github.io/data.json"` oben.
