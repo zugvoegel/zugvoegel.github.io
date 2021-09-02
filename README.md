@@ -41,8 +41,10 @@ This is Code for the political [party comparisson](https://zugvoegel.org/parteie
    ```
    
 * Im Artikel den Editior auf 'Text' statt 'Visuell' umstellen (oben rechts) und an der gewünschten Stelle 
-```{{CODEjQuery}}{{CODEparteichecker}}
-<div id="target_table"></div>```
+```
+{{CODEjQuery}}{{CODEparteichecker}}
+<div id="target_table"></div>
+```
 einfügen.
 
 # Ändern des inhalts
