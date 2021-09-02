@@ -4,7 +4,7 @@
   {"pic":"logo_fdp.jpg", "name":"fdp", "url":"https://www.fdp.de"},
   {"pic":"logo_gruene.svg", "name":"grüne", "url":"https://www.gruene.de"},
   {"pic":"logo_linke.svg", "name":"linke", "url":"https://www.die-linke.de/start/"},
-  {"pic":"logo_afd.png", "name":"afd", "url":"https://www.afd.de"}
+  {"pic":"logo_afd.svg", "name":"afd", "url":"https://www.afd.de"}
 ],
 "position_symbols": [
   {"shorthand":"green", "symbol_url":"green_tick.jpg"},
