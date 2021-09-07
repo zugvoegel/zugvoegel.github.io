@@ -16,7 +16,7 @@
   {
   "title": "Thema: Einwanderung und Visum",
   "items": [
-      {"title": "<b>Staatsbürgerschaft als Geburtsrecht</b>",
+      {"title": "Staatsbürgerschaft als Geburtsrecht",
       "positions": {
         "cdu":["grey", "keine Erwähnung im Wahlprogramm der Partei"],
         "spd":["green", "»Unsere Gesellschaft des Respekts braucht ein modernes Staatsangehörigkeitsrecht. Nachdem wir bereits dafür gesorgt haben, dass grundsätzlich alle in Deutschland geborenen Kinder mit der Geburt auch deutsche Staatsbürger*innen sind, [...]« (S.46)"],
@@ -46,7 +46,7 @@
         "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
        }
       },
-    {"title": "<b>Einführung eines umfassenden Einwanderungsgesetzes; (Punktesystem als Basis für) Einwanderungsrecht</b>",
+    {"title": "Einführung eines umfassenden Einwanderungsgesetzes",
       "positions": {
         "cdu":["grey", "keine Erwähnung im Wahlprogramm der Partei"],
         "spd":["grey", "keine Erwähnung im Wahlprogramm der Partei"],
@@ -66,7 +66,7 @@
         "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
        }
       },
-    {"title": "<b>Bildungsmigration erleichtern</b>",
+    {"title": "Bildungsmigration erleichtern",
       "positions": {
         "cdu":["grey", "keine Erwähnung im Wahlprogramm der Partei"],
         "spd":["grey", "keine Erwähnung im Wahlprogramm der Partei"],
@@ -141,7 +141,7 @@
 
   {"title": "Thema: Flucht und Asyl",
   "items": [
-      {"title": "<b>Individuelles Recht auf Asyl bewahren (Genfer Flüchtlingskonvention)</b>",
+      {"title": "Individuelles Recht auf Asyl bewahren (Genfer Flüchtlingskonvention)",
       "positions": {
         "cdu":["green", "»Die Europäische Union und Deutschland helfen Menschen, die in große Not kommen, weil sie politisch verfolgt werden oder aufgrund der Genfer Flüchtlingskonvention. Wir bekennen uns zum Grundrecht auf Asyl und den rechtlichen und humanitären Verpflichtungen Deutschlands und Europas.« (S.25)"],
         "spd":["green", "»Deshalb werden wir ein funktionsfähiges Europäisches Asylsystem mit dem notwendigen Gleichgewicht zwischen Verantwortung und Solidarität voranbringen, das eine Reform des Dublin-Systems hin zu einem solidarischen Verteilungsmechanismus beinhaltet und das Recht auf Asyl vollumfänglich wahrt und gewährt. [...] Wir werden die Genfer Flüchtlingskonvention verteidigen.« (S.58)"],
@@ -161,7 +161,7 @@
         "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
        }
       },
-    {"title": "<b>Reform oder Abschaffung des Dublin-Systems zur Verteilung innerhalb der EU</b>",
+    {"title": "Reform oder Abschaffung des Dublin-Systems zur Verteilung innerhalb der EU",
       "positions": {
         "cdu":["green", "»Das Gemeinsame Europäische Asylsystem muss grundlegend reformiert werden. Der Vorschlag der Europäischen Kommission einer fairen und solidarischen Verteilung der Kosten und Lasten innerhalb der Mitgliedstaaten der Europäischen Union geht in die richtige Richtung.« (S.27)"],
         "spd":["green", "»Wir stehen für eine humanitäre und solidarische Asyl- und Flüchtlingspolitik in der Europäischen Union. Deshalb werden wir ein funktionsfähiges Europäisches Asylsystem mit dem notwendigen Gleichgewicht zwischen Verantwortung und Solidarität voranbringen, das eine Reform des Dublin-Systems hin zu einem solidarischen Verteilungsmechanismus beinhaltet und das Recht auf Asyl vollumfänglich wahrt und gewährt. Das Asylsystem soll weiter europäisiert und das Europäische Unterstützungsbüro für Asylfragen zu einer vollwertigen europäischen Asylagentur ausgebaut werden.« (S.58)"],
@@ -191,7 +191,7 @@
         "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
        }
       },
-    {"title": "<b>Asylverfahren auf europäischem Boden (Ablehnung von Transitzonen, Flughafenverfahren oder geschlossenen Lagern außerhalb der EU)<b/>",
+    {"title": "Asylverfahren auf europäischem Boden (Ablehnung von Transitzonen, Flughafenverfahren oder geschlossenen Lagern außerhalb der EU)",
       "positions": {
         "cdu":["red", "»Wir sprechen uns für die Einrichtung von europäisch verwalteten Entscheidungszentren an den EU-Außengrenzen aus, in denen geprüft werden soll, ob ein Asylanspruch vorliegt oder nicht.« (S.27)"],
         "spd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
@@ -201,7 +201,7 @@
         "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
        }
       },
-    {"title": "Ablehnung von Rückübernahmeabkommen (z.B. EU-Türkei-Deal) Partnerschaftsabkommen ausschließlich auf Basis von Menschen- und Geflüchtetenrechten bzw. im Rahmen des Globalen Pakts für Migration (UN)",
+    {"title": "Ablehnung von Rückübernahmeabkommen (z.B. EU-Türkei-Deal) Partnerschaftsabkommen ausschließlich auf Basis von Menschen- und Geflüchtetenrechten",
       "positions": {
         "cdu":["yellow", "»Wir wollen deshalb weiter eng mit der Türkei zusammenarbeiten und setzen auf einen offenen, kritischen und konstruktiven Dialog mit der türkischen Führung.« (S.20)"],
         "spd":["yellow", "»Darüber hinaus gilt für uns weiterhin: Fluchtursachen bekämpfen, nicht Geflüchtete. Zusammen mit Partnerländern werden wir uns deshalb dafür einsetzen, dass der Globale Pakt für Migration umfassend umgesetzt wird.« (S.62)"],
@@ -251,7 +251,7 @@
         "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
        }
       },
-    {"title": "Besondere Beachtung von Vulnerabilitäten im Asylverfahren (u.a. Asyl für Queere Menschen und für Opfer von Menschenhandel)",
+    {"title": "Besondere Beachtung von Vulnerabilitäten im Asylverfahren",
       "positions": {
         "cdu":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
         "spd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
@@ -321,7 +321,7 @@
         "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
        }
       },
-    {"title": "Ermöglichung und Förderung von kommunalen und Landesaufnahmeprogrammen (z.B. Fonds für Willkommenskommunen)",
+    {"title": "Ermöglichung und Förderung von kommunalen und Landesaufnahmeprogrammen",
       "positions": {
         "cdu":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
         "spd":["green", "»Wir werden eine Brücke zu lokalen Akteuren bauen und die Aufnahmebereitschaft von europäischen Kommunen und Städten fördern und unterstützen. Dies soll durch Bundeskontingente möglich gemacht und damit auch die Bereitschaft vieler Kommunen im Rahmen der Initiative 'Sichere Häfen' aufgegriffen werden.« (S.58)"],
