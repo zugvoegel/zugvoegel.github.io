@@ -208,7 +208,7 @@
         "fdp":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
         "grüne":["green", "»Abschiebungen, zum Beispiel über Rückübernahmeabkommen, sind das letzte Mittel, wenn die Rückkehr verweigert wird, freiwillige Ausreisen haben immer Vorrang.« (S.187) & »Der bestehende 'EU-Türkei-Deal' untergräbt jedoch internationales Asylrecht, ist gescheitert und muss beendet werden.« (S.231) & »Statt 'sichere Herkunftsländer' zu definieren, brauchen wir für Rückführungen menschenrechtskonforme Rückübernahmeabkommen.« (S.243)"],
         "linke":["green", "»Der Flüchtlingsdeal mit der Türkei und ähnliche Abkommen oder Formen der Zusammenarbeit mit Milizen und Diktatoren in Staaten wie Libyen, Ägypten, Sudan und Marokko müssen aufgekündigt werden« (S.115) & »Kooperationen zum Zweck der Abschottung mit autoritären Regimen der EU, wie beim unmenschlichen EU-Türkei-Deal oder dem Abkommen mit der libyschen Küstenwache, stellen wir uns entgegen: Sie sind nicht Teil der Lösung, sondern Teil des Problems.« (S.152)"],
-        "afd":["grey", "»Aufgrund der begrenzten Mittel soll vielmehr eine auch an deutschen Interessen orientierte Entwicklungspolitik auf ausgewählte Länder konzentriert werden. Wichtige Kriterien sind dabei (a) ein niedriger Korruptionsindex, (b) der pflegliche Umgang mit früheren Entwicklungs-projekten, (c) Eigenanstrengungen im Bildungsbereich, (d) die Offenlegung der Staatseinkünfte, insbesondere aus Bodenschätzen und (e) der bisherige Beitrag des Empfängerlandes zur regionalen Stabilität. Außerdem ist die Gewährung von Entwicklungshilfe an die Bereit-schaft zur Rücknahme ausreisepflichtiger Migranten zu knüpfen.« (S.69)"]
+        "afd":["red", "»Aufgrund der begrenzten Mittel soll vielmehr eine auch an deutschen Interessen orientierte Entwicklungspolitik auf ausgewählte Länder konzentriert werden. Wichtige Kriterien sind dabei (a) ein niedriger Korruptionsindex, (b) der pflegliche Umgang mit früheren Entwicklungs-projekten, (c) Eigenanstrengungen im Bildungsbereich, (d) die Offenlegung der Staatseinkünfte, insbesondere aus Bodenschätzen und (e) der bisherige Beitrag des Empfängerlandes zur regionalen Stabilität. Außerdem ist die Gewährung von Entwicklungshilfe an die Bereitschaft zur Rücknahme ausreisepflichtiger Migranten zu knüpfen.« (S.69)"]
        }
       },
     {"title": "Dezentrale Unterbringung für Neuankommende statt AnkER-Zentren, Verkürzung der Verweildauer in Erstaufnahmezentren",
@@ -228,7 +228,7 @@
         "fdp":["red", "»Zugleich brauchen besonders vulnerable Gruppen, zum Beispiel Verfolgte aus religiösen Gründen oder aufgrund sexueller Identität, sichere Verfahren und eine sichere Unterbringung sowie im Fall sogenannter sicherer Herkunftsländer eine besondere Rechtsberatung, um Anträge form- und fristgerecht stellen zu können.« (S.77)"],
         "grüne":["green", "»Die Ausrufung 'sicherer' Herkunfts- oder Drittstaaten lehnen wir ab – auch auf europäischer Ebene.« (S.186) & »Statt 'sichere Herkunftsländer' zu definieren, brauchen wir für Rückführungen menschenrechtskonforme Rückübernahmeabkommen.« (S.231)"],
         "linke":["yellow", "»Abschiebungen, insbesondere in Krieg, Verfolgung und Elend oder als Form der Doppelbestrafung, lehnen wir ab – im Gegensatz zu allen anderen im Bundestag vertretenen Parteien. Wir haben hier immer dagegen gestimmt und werden das auch in Zukunft tun.« (S.113)"],
-        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+        "afd":["red", "»Ausweitung der Zahl sicherer Herkunftsstaaten.« (S.93)"]
        }
       },
     {"title": "Abschiebestopp in Kriegs- und Krisenländer (z.B. Syrien, Afghanistan,...) sowie Covid-Risikogebiete",
@@ -238,7 +238,7 @@
         "fdp":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
         "grüne":["green", "»Abschiebungen in Kriegs- und Krisenländer werden wir beenden, den Abschiebestopp nach Syrien und Afghanistan bundesweit wieder einsetzen. [...] in Länder, für die das Auswärtige Amt aufgrund von Covid-19 eine Reisewarnung ausgesprochen hat, darf nicht abgeschoben werden.«"],
         "linke":["green", "»Abschiebungen, insbesondere in Krieg, Verfolgung und Elend oder als Form der Doppelbestrafung, lehnen wir ab – im Gegensatz zu allen anderen im Bundestag vertretenen Parteien. Wir haben hier immer dagegen gestimmt und werden das auch in Zukunft tun.« (S.113) & »Deswegen stehen wir auf gegen Abschottung und Abschiebungen, für das Recht zu gehen, zu kommen und zu bleiben.« (S.115)"],
-        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+        "afd":["red", "»Ausnahmslose Abschiebung von Gefährdern und Straftätern, auch nach Afghanistan, Irak und Syrien.« (S.94)"]
        }
       },
     {"title": "Unabhängige, nichtstaatliche Beratung im Asylverfahren",
@@ -248,7 +248,7 @@
         "fdp":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
         "grüne":["green", "»Eine nichtstaatliche unabhängige Asylverfahrensberatung für alle Asylsuchenden, von der Ankunft bis zum Abschluss des Asylverfahrens, wollen wir sicherstellen« (S.186)"],
         "linke":["green", "»Wir fordern eine flächendeckend unabhängige Asylverfahrensberatung durch Wohlfahrtsverbände und Vereine, die öffentlich finanziert sein muss; pauschale Asylwiderrufsprüfungen soll es nicht geben; die Qualität der Asylprüfung und internen Kontrolle muss deutlich verbessert werden, um die Vielzahl der rechtswidrigen und fehlerhaften Bescheide des BAMF wirksam zu reduzieren« (S.116)"],
-        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+        "afd":["red", "»Beendigung des Wildwuchses bei der Asylverfahrensberatung und –betreuung. Die „Beratung und Betreuung“ erfolgt meist durch nichtstaatliche, freie Träger, die ein finanzielles Interesse an steigenden Flüchtlingszahlen und am Verbleib möglichst vieler Abgelehnter haben. Diese Organisationen zählen zur „Asyl-Industrie“, die sich am Asylsystem bereichert. Aus Verfahrens- und Rückkehrberatung wird nahezu immer eine Verweigerungs- und Bleibeberatung. Verfahrensberatung darf nur noch nach § 12 a Asylgesetz und nur durch staatliche Stellen erfolgen.« (S.94)"]
        }
       },
     {"title": "Besondere Beachtung von Vulnerabilitäten im Asylverfahren",
@@ -268,7 +268,7 @@
         "fdp":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
         "grüne":["green", "»Wir wollen die Anzahl der Menschen, die sich von Duldung zu Duldung hangeln müssen, deshalb möglichst auf null reduzieren. Für diese Menschen braucht es nach fünf Jahren Aufenthalt ein sicheres Bleiberecht. Heranwachsende, Jugendliche und Familien mit minderjährigen Kindern sollen nach drei Jahren einen Aufenthaltstitel bekommen.« (S.187)"],
         "linke":["green", "»Wir fordern Legalisierungsmöglichkeiten für Menschen ohne Aufenthaltsstatus und effektive Bleiberechtsregelungen für Menschen, die in einem unsicheren Aufenthaltsstatus oder mit Kettenduldung leben müssen. Für sie wollen wir einen sicheren Zugang zu Bildung, Gesundheit und arbeitsrechtlichem Schutz vor Ausbeutung schaffen.« (S.113)"],
-        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+        "afd":["red", "»Keine Duldungen mehr, sondern Bescheinigungen über die Ausreisepflicht.« (S.95)"]
        }
       },
     {"title": "Einführung eines Passersatzausweises",
@@ -288,7 +288,7 @@
         "fdp":["yellow", "»Bürokratische Hürden beim Einwanderungs- und Integrationsprozess sowie bei der Arbeitsaufnahme, wie die Vorrangprüfung oder die Sperrfrist für Asylbewerber, müssen abgebaut [werden]« (S.78)"],
         "grüne":["green", "»Wir wollen das Asylbewerberleistungsgesetz abschaffen – und damit eine verfassungsrechtlich nicht gerechtfertigte Ungleichbehandlung von Geflüchteten, die ein echtes Ankommen und Teilhabe erschwert. Integrationsfeindliche gesetzliche Regelungen wie Arbeitsverbot und pauschale Wohnsitzauflage sowie Leistungskürzungen wollen wir abschaffen.« (S.186)"],
         "linke":["green", "»Der Einschränkung sozialer Sicherheiten für Migrant*innen aus EU-Ländern und anderen Staaten durch die Bundesregie¬rung stellen wir uns entgegen.« (S.113) & »Statt diskriminierender Sachleistungen wollen wir reguläre Geldleistungen in Höhe der solidarischen Mindestsicherung für alle Menschen.« (S.115)"],
-        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+        "afd":["red", "»Keine Arbeitserlaubnis mehr für Asylantragsteller und abgelehnte Asylbewerber.« (S.94)"]
        }
       },
     {"title": "Familienzusammenführung ermöglichen (auch für subsidiär Schutzbedürftige)",
@@ -298,7 +298,7 @@
         "fdp":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
         "grüne":["green", "»Anträgen auf Familienzusammenführung im Rahmen der Dublin-Verordnung ist schnell zuzustimmen.« (S.186) & »Dabei sind wir dem besonderen Schutz der Familie gemäß Grundgesetz, VN-Kinderrechtskonvention und Europäischer Menschenrechtskonvention verpflichtet und treten dafür ein, die Einschränkungen beim Familiennachzug wieder aufzuheben. Familien gehören zusammen und das Kindeswohl hat oberste Priorität. Auch Menschen mit subsidiärem Schutzstatus müssen deshalb ihre Angehörigen ohne die bisherigen Einschränkungen nachholen können und mit Geflüchteten gemäß der Genfer Konvention gleichgestellt werden.« (S.239)"],
         "linke":["green", "»Das Recht auf Familiennachzug muss uneingeschränkt gelten – auch für »subsidiär« Schutzberechtigte. Bei unbegleiteten minderjährigen Geflüchteten muss es ein Recht auf Nachzug der Geschwisterkinder geben« (S.116)"],
-        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+        "afd":["red", "»Ablehnung jeglichen Familiennachzuges für Flüchtlinge.« (S.94)"]
        }
       },
     {"title": "Ausbau des Resettlement-Programms des UNHCR und anderer Kontingente",
@@ -308,7 +308,7 @@
         "fdp":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
         "grüne":["green", "»Wir schlagen vor, zusammen mit der neuen US-Administration und Kanada sowie anderen in einer globalen humanitären Partnerschaft die Aufnahme aus dem Resettlement-Programm deutlich auszubauen und mittelfristig die Erfüllung von mindestens dem jeweils fairen Anteil am jährlichen, vom UNHCR ermittelten Resettlement-Bedarf entsprechend der Wirtschaftskraft zu erreichen.« (S.240)"],
         "linke":["green", "»Es braucht umfassende Aufnahmekontingente über das Resettlement-Programm des UNHCR und die Aufhebung des Visumszwangs für Schutzsuchende.« (S.116)"],
-        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+        "afd":["red", "»Keine pauschalen Zuwanderungskontingente und Umverteilungsquoten, egal ob im nationalstaatlichen, europäischen oder außereuropäischen Rahmen (z. B. Resettlement).« (S.93)"]
        }
       },
     {"title": "humanitäres Visum",
@@ -318,7 +318,7 @@
         "fdp":["green", "»Ein Visum aus humanitären Gründen sollte ebenfalls erteilt werden, wenn im Einzelfall offensichtlich ist, dass Leib und Leben der Antragstellerin oder des Antragstellers unmittelbar, ernsthaft und konkret gefährdet sind. Dazu sollten im europäischen Recht eindeutige Regelungen verankert werden.« (S.77)"],
         "grüne":["green", "»Auch mit humanitären Visa möchten wir Schutzbedürftigen die Möglichkeit geben, sicher nach Europa zu kommen und hier um Asyl zu ersuchen.« (S.240)"],
         "linke":["green", "»humanitäres Bleiberecht für Betroffene rechter Gewalt ohne festen Aufenthaltsstatus.« (S.114) & »Es gibt keine »Wirtschaftsflüchtlinge« – niemand flieht freiwillig! Wir fordern die Ausweitung verbindlicher Flüchtlingsrechte auf Armuts-, Umwelt- und Klima flüchtlinge sowie eine entsprechende humanitäre Visavergabe.« (S.116)"],
-        "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
+        "afd":["red", "»Bekämpfung des Missbrauchs legal erteilter Visa zum Zweck der Asylantragstellung.« (S.93)"]
        }
       },
     {"title": "Ermöglichung und Förderung von kommunalen und Landesaufnahmeprogrammen",
