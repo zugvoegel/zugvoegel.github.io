@@ -82,7 +82,7 @@
         "spd":["grey", "keine Erwähnung im Wahlprogramm der Partei"],
         "fdp":["yellow", "»Wir Freie Demokraten wollen die Einwanderung in den Arbeitsmarkt verständlich und einfach steuern. Dazu fordern wir ein modernes Zwei-Säulen-System. Dieses besteht aus einer überarbeiteten 'Blue Card' als Kerninstrument der Fachkräfteeinwanderung mit Arbeitsplatzangebot, die auch für nicht-akademische Fachkräfte geöffnet werden muss, und der Einführung einer Chancenkarte für ein Punktesystem nach kanadischem Vorbild, um für Fachkräfte die Möglichkeit zu schaffen, auch ohne Arbeitsplatzangebot zur Arbeitssuche nach Deutschland zu kommen. Die Steuerung soll hier über Kriterien wie Bildungsgrad, Deutsch- oder auch gute Englischkenntnisse, Alter, Berufserfahrung und den aktuellen Fachkräftebedarf am Arbeitsmarkt erfolgen«"],
         "grüne":["green", "»Wir wollen ein modernes Einwanderungsgesetz beschließen, das neue Zugangswege für Bildungs- und Arbeitsmigration schafft – auch für Menschen, die ihre Talente und Fähigkeiten nicht durch formale oder anerkannte Bildungsabschlüsse  nachweisen  können [...]. Wir erleichtern [...] die Voraussetzungen für eine unbefristete Aufenthaltserlaubnis und die Anerkennung von im Ausland erworbenen Berufsqualifikationen.« (S.184)"],
-        "linke":["red", "»Gegen einen eventuellen Fachkräftemangel braucht es keine gezielte Abwerbung von qualifizierte Menschen im Ausland, sondern anständige Ausbildung, Arbeitsbedingungen und Bezah lung für alle Menschen hierzulande.« (S.113) & »Wir fordern, dass die globalen Rekrutierungsagenturen für Arbeitsmigration nur noch lizenziert arbeiten dürfen, ihre Gebühren und Verträge müssen transparent sein und Anwerbegebühren von Arbeitgebern getragen werden.« (S.140)"],
+        "linke":["red", "»Gegen einen eventuellen Fachkräftemangel braucht es keine gezielte Abwerbung von qualifizierten Menschen im Ausland, sondern anständige Ausbildung, Arbeitsbedingungen und Bezah lung für alle Menschen hierzulande.« (S.113) & »Wir fordern, dass die globalen Rekrutierungsagenturen für Arbeitsmigration nur noch lizenziert arbeiten dürfen, ihre Gebühren und Verträge müssen transparent sein und Anwerbegebühren von Arbeitgebern getragen werden.« (S.140)"],
         "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
        }
       },
@@ -112,7 +112,7 @@
         "spd":["green", "keine Erwähnung im Wahlprogramm der Partei"],
         "fdp":["green", "keine Erwähnung im Wahlprogramm der Partei"],
         "grüne":["green", "»Wir erleichtern die Bildungsmigration über Stipendien und Ausbildungsvisa« (S.184)"],
-        "linke":["yellow", "»Gegen einen eventuellen Fachkräftemangel braucht es keine gezielte Abwerbung von qualifizierte Menschen im Ausland, sondern anständige Ausbildung, Arbeitsbedingungen und Bezahlung für alle Menschen hierzulande.« (S.113)"],
+        "linke":["yellow", "»Gegen einen eventuellen Fachkräftemangel braucht es keine gezielte Abwerbung von qualifizierten Menschen im Ausland, sondern anständige Ausbildung, Arbeitsbedingungen und Bezahlung für alle Menschen hierzulande.« (S.113)"],
         "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
        }
       },
@@ -154,7 +154,7 @@
       {"title": "sichere, legale Fluchtwege schaffen",
       "positions": {
         "cdu":["red", "»Wir setzen unsere Anstrengungen fort, damit die Zahl der nach Deutschland und Europa flüchtenden Menschen nicht nur dauerhaft niedrig bleibt, sondern sich weiter reduziert.« (S.26)"],
-        "spd":["yellow", "»Im Rahmen eines umfassenden Ansatzes sollten legale Migrationswege geschaffen und die Ursachen von Flucht und Vertreibung bekämpft werden.« (S.58)"],
+        "spd":["green", "»Im Rahmen eines umfassenden Ansatzes sollten legale Migrationswege geschaffen und die Ursachen von Flucht und Vertreibung bekämpft werden.« (S.58)"],
         "fdp":["green", "»Wir Freie Demokraten fordern, dass Asylanträge auch im Ausland in den Botschaften von EU- Mitgliedstaaten gestellt werden können. Es muss möglich sein, auf sicherem Weg nach Europa zu kommen – ohne lebensgefährliche Reise und die Gefahr, in die Hände von Menschenhändlern zu geraten.« (S.77)"],
         "grüne":["green", "»Wir wollen sichere und legale Zugangswege schaffen – damit Menschen Schutz finden und um zu verhindern, dass Schlepper aus der Not und dem Leid der Geflüchteten Profit schlagen können.« (S.239)"],
         "linke":["green", "»Wir wollen legale und sichere Einreisemöglichkeiten in die EU.« (S.115)"],
