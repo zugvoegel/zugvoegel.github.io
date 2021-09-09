@@ -50,3 +50,8 @@ einfügen.
 # Ändern des inhalts
 Die tabelle kommt aus der datei `let json_file_path ="https://zugvoegel.github.io/data.json"` oben.
 D.h. entweder [diese datei](https://github.com/zugvoegel/zugvoegel.github.io/blob/master/data.json) in diesem Repo ändern oder eine neue datei erstellen und den namen oben entsprechend ändern. 
+
+# Things to keep in mind  
+quotes in the party position text have to be escaped. e.g. `"spd": ["green", "die SPD will \\'sichere Häfen\\' für alle"] `   
+\\' changes to \' when reading the json   
+\' escapes the quote in the javascript  
