@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<title> Parteiencheck </title>
+
+</head>
+<body>
+
+<h1>Parteiencheck Bundestagswahl 2021</h1>
+
+<!-- only the following has to be included where the table should be placed on the site -->
+<!-- <script type="text/javascript" src="https://zugvoegel.github.io/PartyCheckerApp/partyCheck.js"></script> -->
+  <script>
+  // jQuery
+
+  let baseUrl = "PartyCheckerApp/"
+
+    $(window).on('load', function(){
+      $.getScript(baseUrl + "partyCheck.js"+"?"+Date.now(), function(){
+        console.log("starting setup")
+        let target = $("#target_table");
+        let json_file_path ="data_2021.json"+"?"+Date.now();
+        // console.log(target)
+        setUpPartyCheck(target, json_file_path, baseUrl);
+      });
+    });
+
+  </script>
+<div id="target_table"><p></p></div>
+
+</body>
+</html>
