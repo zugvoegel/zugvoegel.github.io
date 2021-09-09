@@ -82,7 +82,7 @@
         "spd":["grey", "keine Erwähnung im Wahlprogramm der Partei"],
         "fdp":["yellow", "»Wir Freie Demokraten wollen die Einwanderung in den Arbeitsmarkt verständlich und einfach steuern. Dazu fordern wir ein modernes Zwei-Säulen-System. Dieses besteht aus einer überarbeiteten 'Blue Card' als Kerninstrument der Fachkräfteeinwanderung mit Arbeitsplatzangebot, die auch für nicht-akademische Fachkräfte geöffnet werden muss, und der Einführung einer Chancenkarte für ein Punktesystem nach kanadischem Vorbild, um für Fachkräfte die Möglichkeit zu schaffen, auch ohne Arbeitsplatzangebot zur Arbeitssuche nach Deutschland zu kommen. Die Steuerung soll hier über Kriterien wie Bildungsgrad, Deutsch- oder auch gute Englischkenntnisse, Alter, Berufserfahrung und den aktuellen Fachkräftebedarf am Arbeitsmarkt erfolgen«"],
         "grüne":["green", "»Wir wollen ein modernes Einwanderungsgesetz beschließen, das neue Zugangswege für Bildungs- und Arbeitsmigration schafft – auch für Menschen, die ihre Talente und Fähigkeiten nicht durch formale oder anerkannte Bildungsabschlüsse  nachweisen  können [...]. Wir erleichtern [...] die Voraussetzungen für eine unbefristete Aufenthaltserlaubnis und die Anerkennung von im Ausland erworbenen Berufsqualifikationen.« (S.184)"],
-        "linke":["red", "»Gegen einen eventuellen Fachkräftemangel braucht es keine gezielte Abwerbung von qualifizierten Menschen im Ausland, sondern anständige Ausbildung, Arbeitsbedingungen und Bezah lung für alle Menschen hierzulande.« (S.113) & »Wir fordern, dass die globalen Rekrutierungsagenturen für Arbeitsmigration nur noch lizenziert arbeiten dürfen, ihre Gebühren und Verträge müssen transparent sein und Anwerbegebühren von Arbeitgebern getragen werden.« (S.140)"],
+        "linke":["red", "»Gegen einen eventuellen Fachkräftemangel braucht es keine gezielte Abwerbung von qualifizierten Menschen im Ausland, sondern anständige Ausbildung, Arbeitsbedingungen und Bezahlung für alle Menschen hierzulande.« (S.113) & »Wir fordern, dass die globalen Rekrutierungsagenturen für Arbeitsmigration nur noch lizenziert arbeiten dürfen, ihre Gebühren und Verträge müssen transparent sein und Anwerbegebühren von Arbeitgebern getragen werden.« (S.140)"],
         "afd":["red", "»Die Behauptung einiger Wirtschaftsverbände und Lobbyisten, in Deutschland herrsche Fachkräftemangel und damit ein Bedarf an qualifizierter Einwanderung, dient nur vordergründig dem Gemeinwohl und darf deshalb nicht maßgeblich sein. Der schädliche Einfluss wirtschaftlicher Partikularinteressen oder gar damit kaschierter antideutscher Ressentiments muss beendet werden.« (S. 99)"]
        }
       },
@@ -102,7 +102,7 @@
         "spd":["green", "keine Erwähnung im Wahlprogramm der Partei"],
         "fdp":["green", "keine Erwähnung im Wahlprogramm der Partei"],
         "grüne":["grey", "keine Erwähnung im Wahlprogramm der Partei"],
-        "linke":["green", "»Es braucht Aufenthalts- und Arbeitserlaubnisse unabhängig von Beschäftigungsdauer und Arbeitgeber« (S.113) & »Die Kündigung des Arbeitsverhältnisses darf nicht zum Verlust des Aufenthaltsrechts führen« (S.20) & »DIE LINKE setzt sich für eine umfassende Visaliberalisierung sowie ein offenes und solidarisches Einwanderungsrecht ein, das sich nicht mehr am Maßstab von Herkunft oder ökono mischer Verwertbarkeit orientiert.« (S.116)"],
+        "linke":["green", "»Es braucht Aufenthalts- und Arbeitserlaubnisse unabhängig von Beschäftigungsdauer und Arbeitgeber« (S.113) & »Die Kündigung des Arbeitsverhältnisses darf nicht zum Verlust des Aufenthaltsrechts führen« (S.20) & »DIE LINKE setzt sich für eine umfassende Visaliberalisierung sowie ein offenes und solidarisches Einwanderungsrecht ein, das sich nicht mehr am Maßstab von Herkunft oder ökonomischer Verwertbarkeit orientiert.« (S.116)"],
         "afd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
        }
       },
@@ -227,7 +227,7 @@
         "spd":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
         "fdp":["red", "»Zugleich brauchen besonders vulnerable Gruppen, zum Beispiel Verfolgte aus religiösen Gründen oder aufgrund sexueller Identität, sichere Verfahren und eine sichere Unterbringung sowie im Fall sogenannter sicherer Herkunftsländer eine besondere Rechtsberatung, um Anträge form- und fristgerecht stellen zu können.« (S.77)"],
         "grüne":["green", "»Die Ausrufung 'sicherer' Herkunfts- oder Drittstaaten lehnen wir ab – auch auf europäischer Ebene.« (S.186) & »Statt 'sichere Herkunftsländer' zu definieren, brauchen wir für Rückführungen menschenrechtskonforme Rückübernahmeabkommen.« (S.231)"],
-        "linke":["yellow", "»Abschiebungen, insbesondere in Krieg, Verfolgung und Elend oder als Form der Doppelbestrafung, lehnen wir ab – im Gegensatz zu allen anderen im Bundestag vertretenen Parteien. Wir haben hier immer dagegen gestimmt und werden das auch in Zukunft tun.« (S.113)"],
+        "linke":["green", "»Abschiebungen, insbesondere in Krieg, Verfolgung und Elend oder als Form der Doppelbestrafung, lehnen wir ab – im Gegensatz zu allen anderen im Bundestag vertretenen Parteien. Wir haben hier immer dagegen gestimmt und werden das auch in Zukunft tun.« (S.113)"],
         "afd":["red", "»Ausweitung der Zahl sicherer Herkunftsstaaten.« (S.93)"]
        }
       },
