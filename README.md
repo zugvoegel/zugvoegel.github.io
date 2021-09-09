@@ -53,5 +53,5 @@ D.h. entweder [diese datei](https://github.com/zugvoegel/zugvoegel.github.io/blo
 
 # Things to keep in mind  
 quotes in the party position text have to be escaped. e.g. `"spd": ["green", "die SPD will \\'sichere Häfen\\' für alle"] `   
-\\' changes to \' when reading the json   
-\' escapes the quote in the javascript  
+`\\'` changes to `\'` when reading the json   
+`\'` escapes the quote in the javascript  
