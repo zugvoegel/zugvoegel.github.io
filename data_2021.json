@@ -109,7 +109,7 @@
     {"title": "Ausbildungsvisum",
       "positions": {
         "cdu":["yellow", "keine Erwähnung, nur: »Wir werden Möglichkeiten fördern, damit Schüler der Deutschen Auslandsschulen, die keine deutsche Staatsangehörigkeit haben, für ein Jahr nach Deutschland kommen und hier bei uns die Schule besuchen können ('Deutschland-Jahr-Stipendium').« (S.40)"],
-        "spd":["green", "keine Erwähnung im Wahlprogramm der Partei"],
+        "spd":["grey", "keine Erwähnung im Wahlprogramm der Partei"],
         "fdp":["grey", "keine Erwähnung im Wahlprogramm der Partei"],
         "grüne":["green", "»Wir erleichtern die Bildungsmigration über Stipendien und Ausbildungsvisa« (S.184)"],
         "linke":["yellow", "»Gegen einen eventuellen Fachkräftemangel braucht es keine gezielte Abwerbung von qualifizierten Menschen im Ausland, sondern anständige Ausbildung, Arbeitsbedingungen und Bezahlung für alle Menschen hierzulande.« (S.113)"],
