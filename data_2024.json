@@ -5,13 +5,13 @@
   {"pic":"logo_gruene.svg", "name":"grüne", "url":"https://www.gruene.de"},
   {"pic":"logo_linke.svg", "name":"linke", "url":"https://www.die-linke.de/am-26-mai-die-linke-waehlen/"},
   {"pic":"logo_fw.png", "name":"fw", "url":"https://www.freiewaehler.eu"},
-  {"pic":"logo_bsw.png", "name":"bsw", "url":"https://www.bsw-vg.de"},
+  {"pic":"logo_bsw.svg", "name":"bsw", "url":"https://www.bsw-vg.de"},
   {"pic":"logo_piraten.svg", "name":"piraten", "url":"https://www.piratenpartei.de"},
   {"pic":"logo_tierschutz.png", "name":"tierschutz", "url":"https://www.tierschutzpartei.de"},
   {"pic":"logo_oedp.png", "name":"ödp", "url":"https://www.oedp.de/"},
   {"pic":"logo_humanisten.png", "name":"humanisten", "url":"https://diehumanisten.de"},
   {"pic":"logo_mlpd.png", "name":"mlpd", "url":"https://www.mlpd.de"},
-  {"pic":"logo_lg.png", "name":"lg", "url":"https://parlament-aufmischen.de/"},
+  {"pic":"logo_lg.jpg", "name":"lg", "url":"https://parlament-aufmischen.de/"},
   {"pic":"logo_volt.jpg", "name":"volt", "url":"https://www.volteuropa.org"}
 ],
 "position_symbols": [
