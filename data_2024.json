@@ -62,11 +62,8 @@
         "bsw":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
         "piraten":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "tierschutz":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "ödp":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "humanisten":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "mlpd":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "lg":["green", "»Und wir werden eine rechtsverbindliche Pflicht zur Ausgabe humanitärer Visa in Konsulaten und Botschaften der EU-Staaten für Menschen einführen, die internationalen Schutz benötigen und in die EU einreisen wollen, um Asyl zu beantragen«"],
-        "volt":["green", "»In the short-term, while lobbying for amending the legal definition of a refugee, we support the (re-)introduction of a humanitarian visa for all European countries. In the proposal for the legislative text, we will include famine and climate migrants as included as a collective group in need of protection, in effect guaranteeing this group the same rights as refugees.« und »The introduction of a humanitarian visa will initially be done by means of a visa waiver for citizens of top refugee producing countries. Visa requirements for nationals from these States will be suspended through an adaptation of the visa lists in Regulation 539/2001. In the long-term, we will propose a legal instrument in the form of a Regulation in which issuing criteria and procedures are included.«"]
+        "ödp":["yellow", "»Aufenthaltserlaubnis aus humanitären Gründen für Kontingentflüchtlinge, bis eine Rückkehr ins Heimatland möglich ist.« (S. 47)"],
+        "volt":["green", "»Einrichtung regulärer Wege in die EU. Durch die Vereinfachung des Visumverfahrens, die Bereitstellung humanitärer Visa und die faire Verteilung der Geflüchteten soll den massiven Verlusten an Menschenleben im Mittelmeer und im Atlantik ein Ende gesetzt werden.« (S. 61)"]
        }
       },
     {"title": "Ausweitung von Kontingenten/Resettlement",
