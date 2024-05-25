@@ -224,46 +224,46 @@
     {"title": "Zuzug von Nicht-EU-Studierenden und -Auszubildenden erleichtern",
       "positions": {
         "cdu":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
-        "spd":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "fdp":["yellow", "»Die EU muss ihre Attraktivität für qualifizierte Facharbeiterinnen und Facharbeiter sowie Studierende aus Nicht-EU- Staaten erhöhen«"],
+        "spd":["green", "»Zugleich setzen wir harmonisierte europäische Regeln für den Zugang zu Ausbildung und Arbeit um. Das gilt für eine Ausweitung der sogenannten Blauen Karte EU aber auch für vereinfachte Regeln für längerfristige Aufenthalte in der EU.« (S. 36)"],
+        "fdp":["green", "»Das niederländische Vorbild eines einjährigen Orientierungsvisums für Absolventinnen und Absolventen der global besten 200 Universitäten wollen wir auf die ganze EU ausweiten. So ermöglichen wir eine gesteuerte Zuwanderung qualifizierter Fachkräfte und steigern die Attraktivität der EU im internationalen Wettbewerb.« (S. 4)"],
         "grüne":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "linke":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "fw":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "bsw":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
-        "piraten":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "tierschutz":["green", "»Wir wollen ein modernes EU-weites Einwanderungsgesetz nach dem Punktemodell, das Arbeitsaufnahme, Arbeitssuche und Ausbildung ermöglicht.«"],
+        "piraten":["yellow", "»Wir Piraten fordern eine gemeinsame europäische Einwanderungspolitik, die die legale Zuwanderung auf den europäischen Arbeitsmarkt ermöglicht und gleichzeitig eine ethische und transparente Anwerbung von Arbeitsmigranten und internationalen Studenten gewährleistet." (S.19) und "die Rechte von Wanderarbeitnehmern und internationalen Studenten schützt und ihre Teilnahme am Alltagsleben der Aufnahmegesellschaften fördert.« (S. 19)"],
+        "tierschutz":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "ödp":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "volt":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"]
+        "volt":["yellow", "»Vereinfachung der Anerkennung von Qualifikationen und Fähigkeiten, die nicht in der EU erarbeitet wurden, um so neue Perspektiven für internationale Studierende, Forschende und andere Fachkräfte zu ermöglichen.« (S. 76)"]
        }
       },
     {"title": "Bessere Anerkennung von außereuropäischen Abschlüssen",
       "positions": {
-        "cdu":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
+        "cdu":["yellow", "»Zuwanderung von qualiizierten Fachkräften erleichtern. Deutschland muss attraktiver für Fachkräfte werden, die Verfahren müssen rein digital bearbeitet werden. Die entsprechenden Arbeitsvisa sind schnell zu erteilen, wenn alle Voraussetzungen für eine Arbeit in Deutschland vorliegen.« (S. 7)"],
         "spd":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "fdp":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "grüne":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "linke":["green", "»Es braucht eine bessere Anerkennung der Qualifikationen und Abschlüsse von Nicht-EU-Bürger*innen, damit diese ihre Berufe weiter ausüben können.« (S. 41)"],
+        "grüne":["green", "»Statt bürokratischer und langwieriger Verfahren wollen wir die Fach- und Arbeitskräfteeinwanderung von Menschen mit verschiedenen Qualifikationsniveaus mit EU-weiten gemeinsamen Rahmenregelungen fördern. Hierzu zählt, die Anerkennung von Bildungsabschlüssen aus Drittstaaten einheitlich und unbürokratisch zu gestalten.« (S. 101)"],
+        "linke":["green", "»Der Zugang für Geflüchtete und Migrant*innen zum Arbeitsmarkt und zu internatio- nalen Schulen und die Anerkennung von Qualifikationen, Berufsabschlüssen und - erfahrungen müssen vereinfacht werden. Es muss niedrigschwellige Angebote für Sprachkurse geben.« (S. 90)"],
         "fw":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "bsw":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
-        "piraten":["green", "»Die Europäischen PIRATEN fordern eine gemeinsame europäische Einwanderungspolitik, die (...) erworbene Zertifizierungen und Berufsqualifikationen in einem vereinfachten Verfahren anerkennt« (S. 17)"],
+        "piraten":["green", "»Wir Piraten fordern eine gemeinsame europäische Einwanderungspolitik, die auf vereinfachte Art und Weise bestimmte Zertifikate und berufliche Qualifikationen anerkennt und bei Bedarf zu ergänzen.« (S. 19)"],
         "tierschutz":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "ödp":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "volt":["green", "»In addition, this proposal will include procedures on the recognition of skills to allow asylum-seekers to continue the vocation they fulfilled in their country of origin, for as far as this is possible.«"]
+        "volt":["green", "»Vereinfachung der Anerkennung von Qualifikationen und Fähigkeiten, die nicht in der EU erarbeitet wurden, um so neue Perspektiven für internationale Studierende, Forschende und andere Fachkräfte zu ermöglichen.« (S. 76)"]
        }
       },
     {"title": "Statuswechsel: Möglichkeit, Asylstatus in dauerhaften Aufenthaltstitel umzuwandeln",
       "positions": {
         "cdu":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
         "spd":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "fdp":["green", "»In diesem Zusammenhang soll im Rahmen der Systemumstellung der „Spur- wechsel“ vom Asylverfahren in ein Einwanderungsverfahren ermöglicht werden.«"],
-        "grüne":["green", "»Menschen, die bereits in Europa sind und die in Beschäftigung stehen, sollen im Rahmen eines sogenannten Spurwechsels ins europäische Einwanderungssystem wechseln und hier bleiben können.«"],
-        "linke":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "fw":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "bsw":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
+        "fdp":["green", "»Für gut integrierte Schutzsuchende muss es die Möglichkeit eines „Spurwechsels“ in eine der beiden Säulen der Einwanderung in den Arbeitsmarkt geben. Zudem wollen wir die Bereitschaft vieler älterer Menschen fördern, ihre Erfahrung und ihr Fachwissen freiwillig auch nach dem Eintritt in den Ruhestand einzubringen.« (S. 4f.)"],
+        "grüne":["yellow", "»Gewaltbetroffene Frauen, deren Aufenthaltsstatus von dem Aufenthaltsstatus ihres Ehemanns oder Partners abhängt, sollen einen eigenständigen Aufenthaltstitel erhalten können. Damit diese Frauen ihr Recht leichter einfordern und durchsetzen können, braucht es niedrigschwelligen Zugang zu geschulter mehrsprachiger Beratung und unterstützenden Hilfestrukturen.« (S. 93)"],
+        "linke":["yellow", "»Kein Mensch ist illegal! In Europa leben Hunderttausende Menschen ohne Papiere oder ohne sicheren Aufenthaltsstatus. Menschen mit und ohne Aufenthaltsrecht oder Arbeitserlaubnis leisten Arbeit, ohne die unser Alltag und unsere Wirtschaft nicht funktionieren würden.« (S.90) und »Menschen ohne Papiere dürfen nicht kriminalisiert werden! Wir setzen uns für eine EU-weit abgestimmte Legalisierungskampagne ein.« (S. 91)"],
+        "fw":["yellow", "»Wir wollen eine klare Trennung von Zuwanderung und Asyl. Unabhängig von den Asylverfahren muss die EU eine eigenständige Einwanderungspolitik verfolgen.« (S. 13) und »Der faktische Aufenthalt an einer EU-Außengrenze aufgrund von irregulärer Migration darf kein Vorzugskriterium bei der regulären Migration sein. Im Gegenteil muss erfolglose, irreguläre Migration einen Ausschlussgrund bei der regulären Migration darstellen.« (S. 14)"],
+        "bsw":["green", "»Gleichwohl sollten wir über internationale Partnerschaften einen Beitrag zur Qualifizierung und Ausbildung von Menschen aus ärmeren Ländern schaffen. Im Rahmen von begrenzten Kontingenten müssen Menschen besser unterstützt werden, die bereits einen Arbeitsvertrag und eine sichere finanzielle Perspektive haben. Zuwanderer, die durch Spracherwerb und Arbeit bereits über längere Zeiträume gut integriert sind, brauchen verlässliche Perspektiven. Wir sollten nicht ausgerechnet jenen Menschen Knüppel zwischen die Beine werfen, die sich angestrengt haben.« (S. 18)"],
         "piraten":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "tierschutz":["green", "»Bereits hier lebende Asylsuchende und Schutzberechtigte müssen grundsätzlich die Möglichkeit erhalten, sich nach dem Punktesystem als Einwanderer zu bewerben (Spurwechsel).«"],
+        "tierschutz":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "ödp":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
-        "volt":["green", "»Asylum seekers must be able to enter the job market from day one, and their skills must be more easily recognised.« und »We will introduce a proposal to adapt Regulation 2013/32 on the granting and withdrawing of international protection of asylum-seekers to ensure that the right to work is included from day one.«"]
+        "volt":["green", "»Möglichkeit für zugereiste Migrant*innen innerhalb der EU eine Aufenthaltserlaubnis zu beantragen. Dies soll unabhängig von ihrem Status oder dem Fehlen einer Aufenthaltserlaubnis ermöglicht werden." (S.76) und "Einführung eines geordneten und an bestimmte Bedingungen geknüpften Verwaltungssystems. Dieses soll den Statuswechsel von irregulärer zu regulärer Wirtschaftsmigration ermöglichen, ohne gleichzeitig Asylentscheidungen zu untergraben.« (S. 80)"]
        }
       }
     ]
