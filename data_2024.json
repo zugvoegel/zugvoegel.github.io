@@ -108,7 +108,7 @@
         "piraten":["grey", "Findet im Wahlprogramm der Partei keine Erwähnung"],
         "tierschutz":["green", "»Ein verbindlicher Flüchtlingsverteilungsschlüssel muss dafür sorgen, dass alle EU-Mitgliedstaaten sich an der Bewältigung dieser Herausforderung entsprechend ihren Möglichkeiten beteiligen.«"],
         "ödp":["green", "»Wer hilft, darf nicht überfordert werden. Daher muss das Dublin-Verfahren grundlegend reformiert werden, damit weder die Mitgliedsstaaten an den EU-Außengrenzen übermäßig belastet werden noch die bevorzugten Zielländer in der Mitte und im Norden Europas.«" ],
-        "volt":["green", "»«"]
+        "volt":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"]
        }
       },
     {"title": "Ablehnung des Konzepts Sichere Herkunftsstaaten",
