@@ -1,15 +1,15 @@
 {"parties": [
-  {"pic":"logo_cdu.jpg", "name":"cdu", "url":"https://www.cdu.de"},
-  {"pic":"logo_spd.svg", "name":"spd", "url":"https://www.spd.de"},
-  {"pic":"logo_fdp.jpg", "name":"fdp", "url":"https://www.fdp.de"},
-  {"pic":"logo_gruene.svg", "name":"grüne", "url":"https://www.gruene.de"},
-  {"pic":"logo_linke.svg", "name":"linke", "url":"https://www.die-linke.de/am-26-mai-die-linke-waehlen/"},
-  {"pic":"logo_fw.png", "name":"fw", "url":"https://www.freiewaehler.eu"},
-  {"pic":"logo_bsw.svg", "name":"bsw", "url":"https://bsw-vg.de"},
-  {"pic":"logo_piraten.svg", "name":"piraten", "url":"https://www.piratenpartei.de"},
-  {"pic":"logo_tierschutz.png", "name":"tierschutz", "url":"https://www.tierschutzpartei.de"},
-  {"pic":"logo_oedp.png", "name":"ödp", "url":"https://www.oedp.de/"},
-  {"pic":"logo_volt.jpg", "name":"volt", "url":"https://www.volteuropa.org"}
+  {"pic":"logo_cdu.jpg", "name":"cdu", "url":"https://www.europawahl.cdu.de/sites/www.europawahlprogramm.cdu.de/files/docs/europawahlprogramm-cdu-csu-2024_0.pdf"},
+  {"pic":"logo_spd.svg", "name":"spd", "url":"https://www.spd.de/fileadmin/Dokumente/EuroDel/20240128_Europaprogramm.pdf"},
+  {"pic":"logo_fdp.jpg", "name":"fdp", "url":"https://www.fdp.de/sites/default/files/2024-01/fdp_europawahlprogramm-2024_vorabversion.pdf"},
+  {"pic":"logo_gruene.svg", "name":"grüne", "url":"https://cms.gruene.de/uploads/assets/20240306_Reader_EU-Wahlprogramm2024_A4.pdf"},
+  {"pic":"logo_linke.svg", "name":"linke", "url":"https://www.die-linke.de/fileadmin/user_upload/Europawahlprogramm_2024.pdf"},
+  {"pic":"logo_fw.png", "name":"fw", "url":"https://www.freiewaehler.eu/unsere-politik/europawahlprogramm/"},
+  {"pic":"logo_bsw.svg", "name":"bsw", "url":"https://bsw-vg.de/wp-content/uploads/2024/02/BSW_Europawahlprogramm_2024.pdf"},
+  {"pic":"logo_piraten.svg", "name":"piraten", "url":"https://wiki.piratenpartei.de/wiki/images/0/08/CEEP_deutsch.pdf"},
+  {"pic":"logo_tierschutz.png", "name":"tierschutz", "url":"https://www.tierschutzpartei.de/content-europa/Europawahlprogramm%202024.pdf"},
+  {"pic":"logo_oedp.png", "name":"ödp", "url":"https://www.oedp.de/fileadmin/user_upload/bundesverband/programm/programme/OEDP-Programm_Europawahl2024_230224_ES.pdf"},
+  {"pic":"logo_volt.jpg", "name":"volt", "url":"https://voltdeutschland.org/storage/assets-de/pdf/europawahl_2024/volt-wahlprogramm-europawahl-2024.pdf"}
 ],
 "position_symbols": [
   {"shorthand":"green", "symbol_url":"green_tick.jpg"},
