@@ -14,8 +14,7 @@
   {"shorthand":"grey", "symbol_url":"grey_dash.jpg"}
 ],
 "topics": [
-  {
-  "title": "Thema: Einwanderung und Visum",
+  {"title": "Thema: Einwanderung und Visum",
   "items": [
       {"title": "Forderung eines europäischen Einwanderungsgesetzes",
       "positions": {
