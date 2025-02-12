@@ -139,5 +139,7 @@ function setUpPartyCheck(target, json_file_path, base_url){
   $.getJSON(json_file_path, function(data){
     makePositionSymbolCSS(base_url, data.position_symbols)
     setupTable(base_url, target, data);
+  }).fail(function() {
+    console.log( "There seems to be a syntax error in the file: " + json_file_path );
   })
 }
