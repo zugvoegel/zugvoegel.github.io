@@ -5,7 +5,7 @@
   {"pic":"logo_gruene.svg", "name":"grüne", "url":"https://www.gruene.de"},
   {"pic":"logo_linke.svg", "name":"linke", "url":"https://www.die-linke.de/start/"},
   {"pic":"logo_bsw.svg", "name":"bsw", "url":"https://www.bsw-vg.de/"}
-  {"pic":"logo_volt.svg", "name":"volt", "url":"https://www.voltdeutschland.org/"}
+  {"pic":"logo_volt.jpg", "name":"volt", "url":"https://www.voltdeutschland.org/"}
 ],
 "position_symbols": [
   {"shorthand":"green", "symbol_url":"green_tick.jpg"},
