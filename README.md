@@ -55,3 +55,12 @@ D.h. entweder [diese datei](https://github.com/zugvoegel/zugvoegel.github.io/blo
 quotes in the party position text have to be escaped. e.g. `"spd": ["green", "die SPD will \\'sichere Häfen\\' für alle"] `   
 `\\'` changes to `\'` when reading the json   
 `\'` escapes the quote in the javascript  
+
+
+# Testing Locally
+* Clone this repo  
+* run a local http server to, e.g. `python3 -m http.server` in the repo folder  (just opening the .html file in a browser will give a CORS error)  
+* in chrome/safari open `localhost:8000/appLocal.html` or whatever port you see in the server  
+* make sure the .json filename `let json_file_path ="data_2025.json"+"?"+Date.now();` in `appLocal.html` is correct  
+
+* to check the json you can use e.g. VS Code locally, or https://jsonlint.com/
