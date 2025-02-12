@@ -66,7 +66,7 @@
         "cdu":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
         "spd":["yellow", "»Die Zuwanderung nach Deutschland aus Asyl- und Fluchtgründen stellt uns weiter vor große Herausforderungen. Wir begegnen ihr auf allen Ebenen verantwortungsvoll mit Humanität und Ordnung. Klar ist: Wer sich nicht an die Regeln hält, muss wieder gehen. Doch wer auf Schutz angewiesen ist, dem gewähren wir Schutz. Wer als Geflüchteter keinen Schutzstatus erhalten hat und dennoch Integration in Arbeitsmarkt und Gesellschaft bewältigt und straffrei ist, dem soll der Spurwechsel in die Fachkräfteeinwanderung ermöglicht werden.« (S.47)"],
         "fdp":["green", "»Für gut integrierte Schutzsuchende muss es die Möglichkeit eines Spurwechsels zur Einwanderung in den Arbeitsmarkt geben, wenn sie so qualifiziert sind, dass sie und ihre Familien von eigener Arbeit ohne Transferleistungen leben können.« (S.27)"],
-        "grüne":["green", "»Dabei sind Flucht und Arbeitsmigration grundsätzlich zu unterscheiden, denn sie folgen unterschiedlichen Logiken. Arbeitsmigration folgt der Nachfrage nach Arbeitskräften, die Aufnahme von Schutzsuchenden den humanitären Verpflichtungen. Gleichzeitig vertreten wir den pragmatischen Ansatz des „Spurwechsels“ und gestalten ihn sinnvoll aus.« (S. 127) "],
+        "grüne":["green", "»Dabei sind Flucht und Arbeitsmigration grundsätzlich zu unterscheiden, denn sie folgen unterschiedlichen Logiken. Arbeitsmigration folgt der Nachfrage nach Arbeitskräften, die Aufnahme von Schutzsuchenden den humanitären Verpflichtungen. Gleichzeitig vertreten wir den pragmatischen Ansatz des \\'Spurwechsels\\' und gestalten ihn sinnvoll aus.« (S. 127)"],
         "linke":["green", "»Wir fordern [...] effektive Bleiberechtsregelungen für Menschen, die mit einem unsicheren Aufenthaltsstatus oder mit Kettenduldungen leben müssen.« (S. 53)"],
         "bsw":["grey", "Findet keine Erwähnung im Wahlprogramm der Partei"],
         "volt":["yellow", "»Das Chancenjahr: Menschen mit abgelehntem Asylantrag erhalten die Möglichkeit, ein Jahr lang zu arbeiten und sich durch Beschäftigung das Recht auf einen Aufenthaltstitel zu erarbeiten.« (S.138)"] 
@@ -85,7 +85,6 @@
       }
     ]
   },
-
   {"title": "Thema: Flucht und Asyl",
   "items": [
       {"title": "Individuelles Recht auf Asyl bewahren (Genfer Flüchtlingskonvention)",
